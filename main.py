@@ -113,24 +113,29 @@ class Unacdemy(object):
 		print('Downloaded {} Notes in {}!'.format(chapter,apath))
 
 if __name__ == '__main__':
-	parser = argparse.ArgumentParser(description='Unacdemy JEE Notes Downloader Utility coded by Tri10',usage='python3 main.py -s SUBJECT -c "CHAPTER"')
+	parser = argparse.ArgumentParser(description='Unacdemy JEE Notes Downloader tool coded by Tr1ten',usage='python3 main.py -s SUBJECT -c "CHAPTER" "CHAPTER2"..',epilog='note : chapter name is case sensitive so spell it correctly (check db for correct chapter names) and it should be in qoutes.')
 	group = parser.add_mutually_exclusive_group()
 	parser.add_argument('-s','--subject',required=True,help='Subject of Notes (case sensitive) eg.maths',type=str,choices=['physics','chemistry','maths'])
-	parser.add_argument('-c','--chapter',type=str,required=True,help='Chapter Name (case sensitive) eg.Application of derivative')
+	parser.add_argument('-c','--chapter',nargs='*',required=True,help='Chapter Name (case sensitive) eg.Application of derivative')
 	parser.add_argument('-d','--dir',type=str,help='Specify directory to store notes',default=os.path.dirname(os.path.abspath(__file__)))
 	group.add_argument('-v','--verbose',action="store_true",default=False)
 	args = parser.parse_args()
+	print('this may take some time....')
+	print(args)
 	obj = Unacdemy()
 	obj.run()
-	if args.chapter in obj.db[args.subject].keys():
+	if all(x in obj.db[args.subject].keys() for x in args.chapter):
 		print('> Started Downloading Notes...')
-		obj.download_content(args.subject,args.chapter,args.dir,args.verbose)
+		for chapters in args.chapter:
+			print(f'>Downloading {chapters} Notes..')
+			obj.download_content(args.subject,chapters,args.dir,args.verbose)
 	else:
 		print('~Chapter not found , maybe you mispelled ')
 		for chapters in obj.db[args.subject].keys():
-			if chapters.lower().count(args.chapter):
-				print('[?] Do yo mean "{}" '.format(chapters))
-				break
+			for argch in args.chapter:
+				if chapters.lower().count(argch):
+					print('[?] Do yo mean "{}" '.format(chapters))
+					break
 		else:
 			print('[*] try finding chapter name in db.json file')
 
