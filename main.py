@@ -114,10 +114,11 @@ class Unacdemy(object):
 
 			print('[.] Downloading Lecture-',index+1)
 			gdownloader.downloadfile(ids,f_path)
+
 		print('Downloaded {} Notes in {}!'.format(chapter,apath))
 
 if __name__ == '__main__':
-	parser = argparse.ArgumentParser(description='Unacdemy JEE Notes Downloader tool coded by Tr1ten',usage='python3 main.py -s SUBJECT -c "CHAPTER" "CHAPTER2"..',epilog='note : chapter name is case sensitive so spell it correctly (check db for correct chapter names) and it should be in qoutes.')
+	parser = argparse.ArgumentParser(description='Unacdemy JEE Notes Downloader tool coded by Tr1ten',usage='python3 main.py -s SUBJECT -c "CHAPTER" "CHAPTER2"..',epilog='note : chapter name is case sensitive so spell it correctly and it should be in qoutes.')
 	group = parser.add_mutually_exclusive_group()
 	parser.add_argument('-s','--subject',help='Subject of Notes (case sensitive) eg.maths',type=str,choices=['physics','chemistry','maths'])
 	parser.add_argument('-c','--chapter',nargs='*',help='Chapter Name (case sensitive) eg.Application of derivative')
