@@ -1,7 +1,8 @@
 import requests
+from tqdm import tqdm
 
 def downloadfile(id,path):
-    URL = "https://docs.google.com/uc?export=download"    
+    URL = "https://docs.google.com/uc?export=download"
 
     session = requests.Session()
 
@@ -11,7 +12,7 @@ def downloadfile(id,path):
         params = {'id' : id , 'confirm' : token }
         response = session.get(URL, params = params, stream = True)
 
-    SaveResponse(response,path)    
+    SaveResponse(response,path)
 
 def get_token(response):
         for key, value in response.cookies.items():
@@ -22,9 +23,11 @@ def get_token(response):
 def SaveResponse(response,path):
     CHUNK_SIZE = 32768
     with open(path, "wb") as f:
-        for chunk in response.iter_content(CHUNK_SIZE):
-            if chunk:  
-                f.write(chunk)
-                
+         with tqdm(unit='B', unit_scale=True, unit_divisor=1024) as bar:
+            for chunk in response.iter_content(CHUNK_SIZE):
+                if chunk:
+                    f.write(chunk)
+                    bar.update(CHUNK_SIZE)
+
 if __name__ == '__main__':
-    downloadfile(input('id :'),input('path'))
+    downloadfile(input('id :'),input('filename :'))
