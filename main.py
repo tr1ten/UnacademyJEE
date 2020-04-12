@@ -1,13 +1,9 @@
-import requests
-from bs4 import BeautifulSoup
-from pprint import pprint
-from functools import reduce
 import json
-import re
 import os
 import time
 import gdownloader
 import argparse
+
 
 #  For calculating time
 def timeme(fn):
@@ -22,15 +18,9 @@ def timeme(fn):
 class Unacdemy(object):
 	"""Simple Unacdemy Notes Downloading Utility"""
 
-	def __init__(self):
-		#  initializing instance variables
-		self.pattern = re.compile(r'd\/(.*?)\/view')
-		self.url = '''https://docs.google.com/spreadsheets/d/e/2PACX-1vQUwyeyCbReMBmABf-Q-XqG40oB5KrDQoUlLMpDZhBu18YasgWI72pAyH4beYolw95ylxQJdPqSWcig/pubhtml'''
-
 	#  Collecting data
 	@timeme
-	def run(self):
-		self.soup = self.getSoup(self.url)
+	def __init__(self):
 		#  Checking for cache
 		if os.path.isfile('db.json'):
 			with  open('db.json','r') as f:
@@ -38,24 +28,6 @@ class Unacdemy(object):
 		else:
 			#  requesting and storing in json file
 			raise OSError('db.json file not found ! ')
-
-	#  Return Soup Object
-	@timeme
-	def getSoup(self,url):
-		self.r = requests.get(url)
-		return BeautifulSoup(self.r.content,'html.parser')
-
-	#  to unshorten the url
-	@timeme
-	def _unshorten(self,url):
-		soup = self.getSoup(url)
-		ulink = soup.find('a').get_text() #  scraping bitly url
-		return requests.head(ulink, allow_redirects=True).url #  returns shared link of file in google drive
-
-	#  Fetching id of gdrive link
-	@timeme
-	def fetch_id(self,url):
-		return self.pattern.findall(self._unshorten(url))[0]
 
 	#  Downloading content using id
 	@timeme
@@ -72,11 +44,12 @@ class Unacdemy(object):
 				os.mkdir(apath)
 			else:
 				exit(0)
-		for index,links in enumerate(self.db[subject][chapter]):
-			ids = self.fetch_id(links)
+		for index,ids in enumerate(self.db[subject][chapter]):
 			f_path = os.path.join(apath,f'{chapter} L{index+1}.pdf')
-
-			print('[.] Downloading Lecture-',index+1)
+			if verbose:
+				print('[.] Downloading Lecture {} in {}'.format(index+1,f_path))
+			else:
+				print('[.] Downloading Lecture-',index+1)
 			gdownloader.downloadfile(ids,f_path)
 
 		print('Downloaded {} Notes in {}!'.format(chapter,apath))
@@ -94,9 +67,8 @@ if __name__ == '__main__':
 	if not arguments.show and not (arguments.subject and  arguments.chapter):
 		parser.print_help()
 		exit(0)
-	print('this may take some time....')
 	obj = Unacdemy()
-	obj.run()
+
 	if arguments.show:
 		print('Available Chapters notes to download -:')
 		for subjects in obj.db.keys():
@@ -108,7 +80,7 @@ if __name__ == '__main__':
 	if all(x in obj.db[arguments.subject].keys() for x in arguments.chapter):
 		print('> Started Downloading Notes...')
 		for chapters in arguments.chapter:
-			print(f'>Downloading {chapters} Notes..')
+			print(f'> Downloading {chapters} Notes..')
 			obj.download_content(arguments.subject,chapters,arguments.dir,arguments.verbose)
 		else:
 			print('Thanks for using this tool <3')

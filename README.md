@@ -4,7 +4,6 @@ Simple Command line Utility to batch download Unacdemy notes of chapter
 ## Getting Started
 This tool help you to easily download all the unacademy notes via one command, no need of google account or any link.
 
-this tool fetches link directly from google sheet provided by unacademy so if new content added there then it will be visible here as well
 
 ### Prerequisites
 
