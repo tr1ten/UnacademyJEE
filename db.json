@@ -1,0 +1,936 @@
+{
+    "physics": {
+        "Units & Dimensions": [
+            "https://www.google.com/url?q=http://bit.ly/2Zta0Wk&sa=D&ust=1586116424186000&usg=AFQjCNG9_oR_ff8q7tKe59ahOMFmf6lKVQ",
+            "https://www.google.com/url?q=http://bit.ly/2PqXO3Y&sa=D&ust=1586116424187000&usg=AFQjCNF3mmeIIYO9fbkAy0-Uy_Yjuv2I3A",
+            "https://www.google.com/url?q=http://bit.ly/2PpmA4z&sa=D&ust=1586116424187000&usg=AFQjCNFnmoMnr5-Ucyqm-__YLB40kkjhWw"
+        ],
+        "Basic Mathematics": [
+            "https://www.google.com/url?q=http://bit.ly/2J3xlbq&sa=D&ust=1586116424188000&usg=AFQjCNGF-WHOK1M-QdmRZJQzxow61g448w",
+            "https://www.google.com/url?q=http://bit.ly/2V3BL9A&sa=D&ust=1586116424188000&usg=AFQjCNFbsSBNknvL0h0Gw7AcC5fI0gKEBQ",
+            "https://www.google.com/url?q=http://bit.ly/2LioJRd&sa=D&ust=1586116424188000&usg=AFQjCNHGmI4NDp9RdxPxUcl-3UliJ3Zc1g",
+            "https://www.google.com/url?q=http://bit.ly/2LrwwMC&sa=D&ust=1586116424189000&usg=AFQjCNGNiZhK2KxzBo1Y_kbzaKS9iYqh9A",
+            "https://www.google.com/url?q=http://bit.ly/2H4W5P6&sa=D&ust=1586116424189000&usg=AFQjCNEwqtT-LXoj9Sny1-1nJpcvSz9gRw",
+            "https://www.google.com/url?q=http://bit.ly/2JuLkXV&sa=D&ust=1586116424190000&usg=AFQjCNGomMO13Bokj9JLoT8P8PpfyBnKIA"
+        ],
+        "Vectors": [
+            "https://www.google.com/url?q=http://bit.ly/2w4AuQR&sa=D&ust=1586116424191000&usg=AFQjCNGMyz6_kUe_Ej4xTPCchnufobikxA",
+            "https://www.google.com/url?q=http://bit.ly/2QfrFNn&sa=D&ust=1586116424191000&usg=AFQjCNFr46ooGjGx1kCGfVd5TZ3TltatCg",
+            "https://www.google.com/url?q=http://bit.ly/2LLeGEv&sa=D&ust=1586116424191000&usg=AFQjCNELA0q9sLGNPxUEsNiQw2KVNY4oDA",
+            "https://www.google.com/url?q=http://bit.ly/30zG0ce&sa=D&ust=1586116424192000&usg=AFQjCNEe3rnn9FYABUA3nZ5nxeoqlnlDpg",
+            "https://www.google.com/url?q=http://bit.ly/2WfbsNh&sa=D&ust=1586116424192000&usg=AFQjCNHiHkwR0m0dAZ0ci_4LEnd9oIbriA",
+            "https://www.google.com/url?q=http://bit.ly/2HtUbI2&sa=D&ust=1586116424192000&usg=AFQjCNEC6WtSkhPnS1CdB_tx5qeC870h4Q"
+        ],
+        "Kinematics 1D": [
+            "https://www.google.com/url?q=http://bit.ly/2wlXDOF&sa=D&ust=1586116424193000&usg=AFQjCNEL8nfPIVskNUxVM_a4WAH2SSCOHg",
+            "https://www.google.com/url?q=http://bit.ly/2VUFUrZ&sa=D&ust=1586116424194000&usg=AFQjCNF4Amx-kxhAVpgpYMrRM3xNq62pBA",
+            "https://www.google.com/url?q=http://bit.ly/30R4i1j&sa=D&ust=1586116424194000&usg=AFQjCNHx8s1mgROkasj8esZntl1sFKz9dw",
+            "https://www.google.com/url?q=http://bit.ly/2JWyanB&sa=D&ust=1586116424195000&usg=AFQjCNFtU0h_zzeY-bZdw4TKGT4ur6e6aw",
+            "https://www.google.com/url?q=http://bit.ly/2MqF0nB&sa=D&ust=1586116424195000&usg=AFQjCNF9o-G9apgBD8AiDNIx4fCjW9vqVw",
+            "https://www.google.com/url?q=http://bit.ly/2KwCsSf&sa=D&ust=1586116424195000&usg=AFQjCNHK-Yadjj4Y_PImr5fZ6m3owjGFlg"
+        ],
+        "Projectile Motion": [
+            "https://www.google.com/url?q=http://bit.ly/2WvG2Dm&sa=D&ust=1586116424196000&usg=AFQjCNFziI_vr18XwUTU_3rZMeLfufcqwQ",
+            "https://www.google.com/url?q=http://bit.ly/2wJREDA&sa=D&ust=1586116424197000&usg=AFQjCNHn_-2ucNK6qQResLPaaMZn6BxxEQ",
+            "https://www.google.com/url?q=http://bit.ly/2WyKkVV&sa=D&ust=1586116424197000&usg=AFQjCNGxnfo3wIAnSduWzeBRTcpdm6lZQQ",
+            "https://www.google.com/url?q=http://bit.ly/2WWdvr3&sa=D&ust=1586116424197000&usg=AFQjCNEw35Yc-m8vE3riCQurQcNTdHhfCQ",
+            "https://www.google.com/url?q=http://bit.ly/2FhSSL4&sa=D&ust=1586116424198000&usg=AFQjCNE78FLKjuOjZL-zrWXwPsWw0Ra87w",
+            "https://www.google.com/url?q=http://bit.ly/2L1Y8Ww&sa=D&ust=1586116424198000&usg=AFQjCNHxgJZKoE0AAqLlkS_AC52v0MaWzg"
+        ],
+        "Newton's Laws of Motion": [
+            "https://www.google.com/url?q=http://bit.ly/2ZIS35C&sa=D&ust=1586116424199000&usg=AFQjCNG_zBOJHgad6_PklmavCEGl3pc43Q",
+            "https://www.google.com/url?q=http://bit.ly/2WZ3ZhX&sa=D&ust=1586116424200000&usg=AFQjCNEgPtXZml_EogwA9LHqwB8v9fncMg",
+            "https://www.google.com/url?q=http://bit.ly/2Rz2RQO&sa=D&ust=1586116424200000&usg=AFQjCNFF7p8k_PsCgIqHKiKDx_V-kjqt-Q",
+            "https://www.google.com/url?q=http://bit.ly/2xodSLO&sa=D&ust=1586116424201000&usg=AFQjCNEPI_EP-XjeOzxOz0emh0Gq4x0T5w",
+            "https://www.google.com/url?q=http://bit.ly/2XhoLOC&sa=D&ust=1586116424201000&usg=AFQjCNF98eV1-5HLAWSi9IxudeXjYOZldA",
+            "https://www.google.com/url?q=http://bit.ly/2XERxIz&sa=D&ust=1586116424201000&usg=AFQjCNHBbYuYSpQ5mUbAVCJ2YLVbK5b46Q"
+        ],
+        "Friction": [
+            "https://www.google.com/url?q=http://bit.ly/2XRpuFI&sa=D&ust=1586116424202000&usg=AFQjCNHh7bwKN7JROz4xz39CYryII6C0uw",
+            "https://www.google.com/url?q=http://bit.ly/2G0Gz60&sa=D&ust=1586116424202000&usg=AFQjCNFa1wmxu7fywtpr_loPI0EFz5wY5A",
+            "https://www.google.com/url?q=http://bit.ly/2LdIAjC&sa=D&ust=1586116424203000&usg=AFQjCNFMxqHsjz7D38iuGLI4Vt8JRpvFKw"
+        ],
+        "Work, Energy & Power ": [
+            "https://www.google.com/url?q=http://bit.ly/2XMS5wT&sa=D&ust=1586116424204000&usg=AFQjCNEAE31lh-BbJjlCrbWh1bsJwtqIYw",
+            "https://www.google.com/url?q=http://bit.ly/2LWycfw&sa=D&ust=1586116424204000&usg=AFQjCNHNMMqTlAHqDV-IRFewYIe6uE-jHQ",
+            "https://www.google.com/url?q=http://bit.ly/2LXxrTI&sa=D&ust=1586116424205000&usg=AFQjCNE6zYLODREzw1YjRZIjiSHZqQTXlQ",
+            "https://www.google.com/url?q=http://bit.ly/2y4kXBw&sa=D&ust=1586116424205000&usg=AFQjCNFTdr8tj21IBwpb9YgsXE2oWMgiuQ",
+            "https://www.google.com/url?q=http://bit.ly/30L5Rgm&sa=D&ust=1586116424206000&usg=AFQjCNHtfLHpZsqZcBOO66vQF1G8kQ3AXQ",
+            "https://www.google.com/url?q=http://bit.ly/2OhdOJ0&sa=D&ust=1586116424206000&usg=AFQjCNHA3MwbA9MDVhXUFKDYKVSxpliIKA",
+            "https://www.google.com/url?q=http://bit.ly/2K1UDhX&sa=D&ust=1586116424206000&usg=AFQjCNGE2cCv8Hd73hi_pCO9CfX7gMBoiQ",
+            "https://www.google.com/url?q=http://bit.ly/310c5ZO&sa=D&ust=1586116424207000&usg=AFQjCNGScVAoAOJMvATB-X7yl3EbIK2YLw",
+            "https://www.google.com/url?q=http://bit.ly/2YyOePl&sa=D&ust=1586116424207000&usg=AFQjCNEU-xAIOhC_X2ETqU8Kyne20s6c3g"
+        ],
+        "Circular Motion": [
+            "https://www.google.com/url?q=http://bit.ly/2yGQ9a2&sa=D&ust=1586116424208000&usg=AFQjCNFLmErpRsOSAg9ojbkwI2xK9wmCXQ",
+            "https://www.google.com/url?q=http://bit.ly/2KlbCMC&sa=D&ust=1586116424208000&usg=AFQjCNEShpX5oyhlpCfSrpdPVEQoWUFW5g",
+            "https://www.google.com/url?q=http://bit.ly/31qjX7o&sa=D&ust=1586116424209000&usg=AFQjCNFGtTpOpyqEWW3PvXv6NZwTu_0wlg",
+            "https://www.google.com/url?q=http://bit.ly/2H0pd9K&sa=D&ust=1586116424209000&usg=AFQjCNEkj3ckIVDu859fcfciOfZYTc_e-w",
+            "https://www.google.com/url?q=http://bit.ly/2KIw3lt&sa=D&ust=1586116424209000&usg=AFQjCNGrxSUMP-VXGdjc2zgHy7wT5TFL8A",
+            "https://www.google.com/url?q=http://bit.ly/2HdeJUB&sa=D&ust=1586116424210000&usg=AFQjCNEQwcWmY7ymHaXPcteXe6vm-2ntIQ"
+        ],
+        "Centre of Mass": [
+            "https://www.google.com/url?q=http://bit.ly/2P4PRVH&sa=D&ust=1586116424211000&usg=AFQjCNGBfWD5RM6esTemouYF7lgjT2mvNA",
+            "https://www.google.com/url?q=http://bit.ly/2zcfl8C&sa=D&ust=1586116424211000&usg=AFQjCNEVqw45wI3MjMcq6Hb2-Ujx5F-dhQ",
+            "https://www.google.com/url?q=http://bit.ly/2KX3CjX&sa=D&ust=1586116424211000&usg=AFQjCNH6xZkjHzDQ2iBstMq9_vSCRFUrbg"
+        ],
+        "Momentum": [
+            "https://www.google.com/url?q=http://bit.ly/2U73hiL&sa=D&ust=1586116424212000&usg=AFQjCNHpslogWf2ySI5gvHcC8oKSQVqNjA",
+            "https://www.google.com/url?q=http://bit.ly/2Zk2oZT&sa=D&ust=1586116424212000&usg=AFQjCNEUbFaZPd5aS9WKeDT4tYgJ4t2MbA",
+            "https://www.google.com/url?q=http://bit.ly/3468ImM&sa=D&ust=1586116424213000&usg=AFQjCNELeXVfCmL_4tzJT_HS5aSpgZY2kA",
+            "https://www.google.com/url?q=http://bit.ly/2keY5Mn&sa=D&ust=1586116424213000&usg=AFQjCNFgILlHX7bq4lBagAssaKFnTkFKAw",
+            "https://www.google.com/url?q=http://bit.ly/2lWiTIW&sa=D&ust=1586116424213000&usg=AFQjCNGENDeVtancSr33Xm1VpGaXtYEf1Q",
+            "https://www.google.com/url?q=http://bit.ly/2k4i5RK&sa=D&ust=1586116424214000&usg=AFQjCNGcHt_KjFqWIh3dMyNuw0e08W4QbA"
+        ],
+        "Rotational Motion": [
+            "https://www.google.com/url?q=http://bit.ly/2kEomDK&sa=D&ust=1586116424215000&usg=AFQjCNHV3S4HNg2hVtwLUJhuEFSoxikuYg",
+            "https://www.google.com/url?q=http://bit.ly/2kOVitj&sa=D&ust=1586116424225000&usg=AFQjCNGRtjFMNSJhcAdO4W7dRrm-fKampA",
+            "https://www.google.com/url?q=http://bit.ly/2ml9drE&sa=D&ust=1586116424226000&usg=AFQjCNGDkBYpcGw5LgO9AQN-roUjHG5dXw",
+            "https://www.google.com/url?q=http://bit.ly/2kHEFzZ&sa=D&ust=1586116424226000&usg=AFQjCNEKTS_IJDeLXOUvO75ZtUE5JAM-eg",
+            "https://www.google.com/url?q=http://bit.ly/2l4iMuB&sa=D&ust=1586116424227000&usg=AFQjCNEpHyoK1bPDNnXXG8anU7xKob2ZrQ",
+            "https://www.google.com/url?q=http://bit.ly/2lc1oo2&sa=D&ust=1586116424227000&usg=AFQjCNELWzJ_LVWPgf6S1VQKLywuz1qe3g",
+            "https://www.google.com/url?q=http://bit.ly/2lF57dR&sa=D&ust=1586116424228000&usg=AFQjCNEG8HnFJYDh8lTB-PaA5zTInaF8Hw",
+            "https://www.google.com/url?q=http://bit.ly/2oYyRUt&sa=D&ust=1586116424228000&usg=AFQjCNFh-1QF-DR42dMjRVnLmLnKbaQKSg",
+            "https://www.google.com/url?q=http://bit.ly/2oYKJpx&sa=D&ust=1586116424228000&usg=AFQjCNEuiPf0ojwejo4Mvdc9QURyu2LlBw",
+            "https://www.google.com/url?q=http://bit.ly/2AZ22JQ&sa=D&ust=1586116424229000&usg=AFQjCNF7dgegsNa3Y3UXWISOxCeL_I5myw",
+            "https://www.google.com/url?q=http://bit.ly/2IMdFYz&sa=D&ust=1586116424229000&usg=AFQjCNH61LzkLmGyG2btSl_lvCDaUn1pIw",
+            "https://www.google.com/url?q=http://bit.ly/2BeC3OI&sa=D&ust=1586116424230000&usg=AFQjCNElg5gU9ev7AIIUv6rXcaRkQ7h_9A"
+        ],
+        "Gravitation": [
+            "https://www.google.com/url?q=http://bit.ly/2oD1oza&sa=D&ust=1586116424231000&usg=AFQjCNGYi-jHbZdWVsjcx8YfMggEGIZffA",
+            "https://www.google.com/url?q=http://bit.ly/31xqKf7&sa=D&ust=1586116424231000&usg=AFQjCNHoyD0m3wBX9oqnwhBLxPlyi2T2bQ",
+            "https://www.google.com/url?q=http://bit.ly/33RR8lh&sa=D&ust=1586116424232000&usg=AFQjCNFu4Pui5rCoo-Q0QUhU1m6tqu8wCw",
+            "https://www.google.com/url?q=http://bit.ly/2Jegl1m&sa=D&ust=1586116424232000&usg=AFQjCNFqOespNm0C15EqFgV1VKN_hdDRNw",
+            "https://www.google.com/url?q=http://bit.ly/2MM9iiV&sa=D&ust=1586116424233000&usg=AFQjCNFakH6zsijGhKC76TmIpHry_MSZ-w",
+            "https://www.google.com/url?q=http://bit.ly/2BIMoCx&sa=D&ust=1586116424233000&usg=AFQjCNGh0z8jnXlEHqeo1SbBn8lDmhp1uA",
+            "https://www.google.com/url?q=http://bit.ly/2pp9pI4&sa=D&ust=1586116424233000&usg=AFQjCNEV-gOFQkqyQ8WxIYfNEd-bKV70IA"
+        ],
+        "Fluid Mechanics": [
+            "https://www.google.com/url?q=http://bit.ly/2qlUheC&sa=D&ust=1586116424234000&usg=AFQjCNF8vasdX1jw-n97R3jQkvDQszR6Eg",
+            "https://www.google.com/url?q=http://bit.ly/2JSlwod&sa=D&ust=1586116424235000&usg=AFQjCNGuhhAzkzIbfd9Txa_YQYSujNnY8A",
+            "https://www.google.com/url?q=http://bit.ly/2rjiwuE&sa=D&ust=1586116424235000&usg=AFQjCNHYeCXaNFh8ep4Z-_rkaxtY2ED_Jg",
+            "https://www.google.com/url?q=http://bit.ly/2O6UStc&sa=D&ust=1586116424235000&usg=AFQjCNEyZTRUrM-djeLNd3SHuPL3QVbEAw",
+            "https://www.google.com/url?q=http://bit.ly/2q5hOAU&sa=D&ust=1586116424236000&usg=AFQjCNEBxZRCRFvoFQ0jbIIz1JYYI5b7eQ",
+            "https://www.google.com/url?q=http://bit.ly/35aFlze&sa=D&ust=1586116424236000&usg=AFQjCNHiZSSDFErUmTDsmG_dJ428UcZx4w",
+            "https://www.google.com/url?q=http://bit.ly/2XAj0bW&sa=D&ust=1586116424237000&usg=AFQjCNHu9_vlwFkbMWAsVy5SzsmQKhjkeA",
+            "https://www.google.com/url?q=http://bit.ly/2OsoZeA&sa=D&ust=1586116424237000&usg=AFQjCNHQwcaf9ic8FX4YGMb5cssmvSXgbw",
+            "https://www.google.com/url?q=http://bit.ly/2XOQGCx&sa=D&ust=1586116424237000&usg=AFQjCNFE4DTcag6bSE1AkiqzAI1Hgf9WrA",
+            "https://www.google.com/url?q=http://bit.ly/37EfBNH&sa=D&ust=1586116424238000&usg=AFQjCNE58i0-7bjXteyoQW-unQnz0ey3ig",
+            "https://www.google.com/url?q=http://bit.ly/2RcsF76&sa=D&ust=1586116424238000&usg=AFQjCNEJFwSgq7wyW7BbngHHOPn7G-P-Zg"
+        ],
+        "Elasticity": [
+            "https://www.google.com/url?q=http://bit.ly/3627uJp&sa=D&ust=1586116424239000&usg=AFQjCNFUtBtpXoopquq0uzq3Sg8IhSJD1w",
+            "https://www.google.com/url?q=http://bit.ly/3615d0Y&sa=D&ust=1586116424240000&usg=AFQjCNGKN8eVBn5rI-9w5odtdEaSDLYlTg"
+        ],
+        "Simple Harmonic Motion": [
+            "https://www.google.com/url?q=http://bit.ly/36mNIIJ&sa=D&ust=1586116424241000&usg=AFQjCNEYxP97MJVpHtdcQmhRm5BvFueftA",
+            "https://www.google.com/url?q=http://bit.ly/2RBqB9c&sa=D&ust=1586116424241000&usg=AFQjCNF-OS4CYBjsUhdWQm9mDz26Q_8p1A",
+            "https://www.google.com/url?q=http://bit.ly/2LHH6gc&sa=D&ust=1586116424242000&usg=AFQjCNG96VRPW_N2bPAphJRWL8adDrtIXA",
+            "https://www.google.com/url?q=http://bit.ly/38J7mAI&sa=D&ust=1586116424242000&usg=AFQjCNEDaN0yOSWsjHS4V-p07CvKwF0V9A",
+            "https://www.google.com/url?q=http://bit.ly/2M3NEpg&sa=D&ust=1586116424243000&usg=AFQjCNH-KEe139IUWYQpejzn-SG45dEOmQ",
+            "https://www.google.com/url?q=http://bit.ly/2S4gQ3q&sa=D&ust=1586116424243000&usg=AFQjCNFVlx1q323brk_8VVWmJYjy3yiXhw"
+        ],
+        "Waves": [
+            "https://www.google.com/url?q=http://bit.ly/34LzwaN&sa=D&ust=1586116424244000&usg=AFQjCNG3c40dcnvpuMS8PhgSb8ItUJUx3Q",
+            "https://www.google.com/url?q=http://bit.ly/2s7X3pr&sa=D&ust=1586116424245000&usg=AFQjCNHDzqusB08qaQ4YmCYNWi4jSwpgZQ",
+            "https://www.google.com/url?q=http://bit.ly/2SD7agH&sa=D&ust=1586116424245000&usg=AFQjCNGLtRqCCeGtj01QLvvxAjNuud6AiQ",
+            "https://www.google.com/url?q=http://bit.ly/35pWWmn&sa=D&ust=1586116424245000&usg=AFQjCNGRguOJbDm4G_uBfw19e8r4Yey0dw",
+            "https://www.google.com/url?q=http://bit.ly/386zMn3&sa=D&ust=1586116424246000&usg=AFQjCNFdDGYjrBffivEbnVdw2MXIn_Q3JA",
+            "https://www.google.com/url?q=http://bit.ly/2Nrs8eV&sa=D&ust=1586116424246000&usg=AFQjCNGVL-onF1KXtoI2vtsFo-53l9gUhw",
+            "https://www.google.com/url?q=http://bit.ly/361UrHy&sa=D&ust=1586116424247000&usg=AFQjCNGWntJvkzr6azTzYudL7qIxIf_XkA",
+            "https://www.google.com/url?q=http://bit.ly/36e1NYi&sa=D&ust=1586116424247000&usg=AFQjCNFY_CJ_1k3J9l09d6AgcWwsf42xeA",
+            "https://www.google.com/url?q=http://bit.ly/2U6QZsR&sa=D&ust=1586116424248000&usg=AFQjCNHMPbFoaF659o5KW9Ue-L2mIKnQ4w",
+            "https://www.google.com/url?q=http://bit.ly/2SlKpw0&sa=D&ust=1586116424248000&usg=AFQjCNEsDo-MXL_2FKwyTeytrAinW-h7dQ",
+            "https://www.google.com/url?q=http://bit.ly/2SkBkou&sa=D&ust=1586116424249000&usg=AFQjCNHradr-KdsI-3K479x_VJ22pN8xcQ",
+            "https://www.google.com/url?q=http://bit.ly/2SnH54F&sa=D&ust=1586116424249000&usg=AFQjCNGzBtDerC-5rD1ppRklfJEQg1KHHA",
+            "https://www.google.com/url?q=http://bit.ly/39BdZoJ&sa=D&ust=1586116424250000&usg=AFQjCNGObg_b8v2TEJLpUpdp8ys2iqrwkw"
+        ],
+        "Basic Kinematics": [
+            "https://www.google.com/url?q=http://bit.ly/2XbsSav&sa=D&ust=1586116424251000&usg=AFQjCNEuccUcEMe-FWu1vPTwOMypNpbcRA",
+            "https://www.google.com/url?q=http://bit.ly/2VQ4BGW&sa=D&ust=1586116424251000&usg=AFQjCNFPUxip-6T_K_ojUyUHuyoDm5S0iQ",
+            "https://www.google.com/url?q=http://bit.ly/2IpgMHr&sa=D&ust=1586116424251000&usg=AFQjCNFtYl5D8uGOKaDovks_R3XfVgdjzg"
+        ],
+        "Calorimetry": [
+            "https://www.google.com/url?q=http://bit.ly/2TavdUu&sa=D&ust=1586116424252000&usg=AFQjCNErUVok2D-rSlrp3I016KX6rm1z4Q",
+            "https://www.google.com/url?q=http://bit.ly/38mKQg1&sa=D&ust=1586116424253000&usg=AFQjCNF3wdCrOOJ5i_r2N9lrYp-YEubBlw",
+            "https://www.google.com/url?q=http://bit.ly/38mKQg1&sa=D&ust=1586116424253000&usg=AFQjCNF3wdCrOOJ5i_r2N9lrYp-YEubBlw"
+        ],
+        "Kinetic Theory of Gases": [
+            "https://www.google.com/url?q=http://bit.ly/2ubt2FP&sa=D&ust=1586116424254000&usg=AFQjCNGgH9_j9h6eUKxBBOe4hni0zAMnoQ",
+            "https://www.google.com/url?q=http://bit.ly/2vaXbWe&sa=D&ust=1586116424254000&usg=AFQjCNFly-pS-S3C5lxC6oq8qxf5_rHOvQ",
+            "https://www.google.com/url?q=http://bit.ly/2GjB7Lh&sa=D&ust=1586116424254000&usg=AFQjCNEAowxzuYNBIBKyifYvp-27KeO5bA",
+            "https://www.google.com/url?q=http://bit.ly/2NY1lHs&sa=D&ust=1586116424255000&usg=AFQjCNHJd063eRKQZuhXb3IzyBS1zb4sRg"
+        ],
+        "Laws of Thermodynamics": [
+            "https://www.google.com/url?q=http://bit.ly/2UemKQM&sa=D&ust=1586116424256000&usg=AFQjCNEAjMPX97qbs7ZmLeJ3ubVvNDatlw",
+            "https://www.google.com/url?q=http://bit.ly/2GL86IA&sa=D&ust=1586116424256000&usg=AFQjCNGbY8VhwSnDS5TI72g5WzlEm7uhkQ",
+            "https://www.google.com/url?q=http://bit.ly/31hwKKr&sa=D&ust=1586116424256000&usg=AFQjCNGjR7UXczF8JvFlTB4ZOvtDZVdv6w",
+            "https://www.google.com/url?q=http://bit.ly/2GPYA7d&sa=D&ust=1586116424257000&usg=AFQjCNGzNlmUJcqPTglsic4gIoNoHg0n4g",
+            "https://www.google.com/url?q=http://bit.ly/2H43hdz&sa=D&ust=1586116424257000&usg=AFQjCNHdtQwkU_oeTTzhcTcsJbwvJgzslA",
+            "https://www.google.com/url?q=http://bit.ly/2OzR4By&sa=D&ust=1586116424258000&usg=AFQjCNEvIOzdwaIQpgqByuURSR66vJTHzQ",
+            "https://www.google.com/url?q=http://bit.ly/2vjIekw&sa=D&ust=1586116424258000&usg=AFQjCNFu5VFUyC_93yqS1h1OuWjFLwICMA"
+        ],
+        "Heat Transfer": [
+            "https://www.google.com/url?q=http://bit.ly/2tUh97c&sa=D&ust=1586116424259000&usg=AFQjCNFpXrQ27TuVeK-Inn5uTu-9wltC_w",
+            "https://www.google.com/url?q=http://bit.ly/2SwubS8&sa=D&ust=1586116424259000&usg=AFQjCNFZR1-keJ42zTP9st4eREXvBg-dvA",
+            "https://www.google.com/url?q=http://bit.ly/2u1rgqW&sa=D&ust=1586116424259000&usg=AFQjCNERUBPj5Bd-ZTimzZmWkP130CeYmA",
+            "https://www.google.com/url?q=http://bit.ly/2SAgVM8&sa=D&ust=1586116424260000&usg=AFQjCNGANr1oSNELtANp_fjQK-C4ogB4Jw",
+            "https://www.google.com/url?q=http://bit.ly/2UY4Wtv&sa=D&ust=1586116424260000&usg=AFQjCNF9vRNLRX9YBnAWsy3bCJ4m63YGyw"
+        ],
+        "Electrostatics": [
+            "https://www.google.com/url?q=http://bit.ly/2D9YG86&sa=D&ust=1586116424568000&usg=AFQjCNEeWQ6cZAPpkvckfh2hg7FXZrc3bQ",
+            "https://www.google.com/url?q=http://bit.ly/2P84Iee&sa=D&ust=1586116424568000&usg=AFQjCNFhpr5Q-4cZ6sHWVwZgfpijwG9DUA",
+            "https://www.google.com/url?q=http://bit.ly/2Go1U8O&sa=D&ust=1586116424568000&usg=AFQjCNGBaRSK9gQOTdou7Ca5YSbG302V3g",
+            "https://www.google.com/url?q=http://bit.ly/2Dq5Mp5&sa=D&ust=1586116424568000&usg=AFQjCNEpYfOBEowVvcdFB2ppz-K4iB-vEw",
+            "https://www.google.com/url?q=http://bit.ly/2IyOL0l&sa=D&ust=1586116424568000&usg=AFQjCNFY9Uamb64xWtPgRqUWAXbPg4xJRw",
+            "https://www.google.com/url?q=http://bit.ly/2PtzVc7&sa=D&ust=1586116424568000&usg=AFQjCNHTmEcLWjDFBtzKlx2LPoeqALwPNA",
+            "https://www.google.com/url?q=http://bit.ly/2W5BfV6&sa=D&ust=1586116424568000&usg=AFQjCNGhCzRw3-v6N9iAOw0e_3j373QAwg"
+        ],
+        "Gauss's Law": [
+            "https://www.google.com/url?q=http://bit.ly/2J1jW3C&sa=D&ust=1586116424569000&usg=AFQjCNHOUpkil4r6ZdlVXINsTshy9j-21w",
+            "https://www.google.com/url?q=http://bit.ly/2DNao8V&sa=D&ust=1586116424569000&usg=AFQjCNGkJhRdLWM-7jeSMlqTL5w_yewkyQ",
+            "https://www.google.com/url?q=http://bit.ly/2vChWqD&sa=D&ust=1586116424569000&usg=AFQjCNF7wFm2DGKAwfHwIPHO50i5AUgbcw",
+            "https://www.google.com/url?q=http://bit.ly/2Jc5m9L&sa=D&ust=1586116424569000&usg=AFQjCNFYWuvVFqciws70WJTJ4XEd5Y1vKw"
+        ],
+        "Capacitance": [
+            "https://www.google.com/url?q=http://bit.ly/2LwtN4h&sa=D&ust=1586116424569000&usg=AFQjCNFXVJ6uqaCZBw7j9ctokp8TjQJnhA",
+            "https://www.google.com/url?q=http://bit.ly/2PZKLqu&sa=D&ust=1586116424569000&usg=AFQjCNE2uHF6kvoWSFvySYwMYNgsID1KLQ",
+            "https://www.google.com/url?q=http://bit.ly/2WBVUQT&sa=D&ust=1586116424569000&usg=AFQjCNE5wIRP2uzmP6VRoCWGwjLGlsdEvQ",
+            "https://www.google.com/url?q=http://bit.ly/2JKBdP2&sa=D&ust=1586116424570000&usg=AFQjCNFHthXKhBWCXmfh750BhMwJHHLeeA",
+            "https://www.google.com/url?q=http://bit.ly/2WRxDGy&sa=D&ust=1586116424570000&usg=AFQjCNFe0YAetcp6U0f5n91KkVr7pof9vw",
+            "https://www.google.com/url?q=http://bit.ly/30smzBZ&sa=D&ust=1586116424570000&usg=AFQjCNEIJBxCCKCGFI4BdVpP2cc0TJj51Q",
+            "https://www.google.com/url?q=http://bit.ly/2VOk9dp&sa=D&ust=1586116424570000&usg=AFQjCNE_xFAEA0UUxtzPqimsEoLkp0iTUA"
+        ],
+        "Current Electricity": [
+            "https://www.google.com/url?q=http://bit.ly/2JCKwkR&sa=D&ust=1586116424570000&usg=AFQjCNFIj3cxIyD8l2yWwdXUefiZUOVYig",
+            "https://www.google.com/url?q=http://bit.ly/2M5jmoG&sa=D&ust=1586116424570000&usg=AFQjCNHh0viNiedfzxpMZt9xDMdCdzNVAA",
+            "https://www.google.com/url?q=http://bit.ly/2YWQHnj&sa=D&ust=1586116424570000&usg=AFQjCNEvKR8QU7nGffE5IBAIC09h2u-VIQ",
+            "https://www.google.com/url?q=http://bit.ly/2YUpkue&sa=D&ust=1586116424570000&usg=AFQjCNF9M-4aUFSb-jknMNXa0V_lAGsnMA",
+            "https://www.google.com/url?q=http://bit.ly/2JSfFky&sa=D&ust=1586116424570000&usg=AFQjCNG9YDSDnejJ0iyDyTjnp4355cSv6g",
+            "https://www.google.com/url?q=http://bit.ly/2MySHRD&sa=D&ust=1586116424571000&usg=AFQjCNHAFWEt5fBvvYdQXoAwGz09Uqe6lA",
+            "https://www.google.com/url?q=http://bit.ly/2wLWkbO&sa=D&ust=1586116424571000&usg=AFQjCNEijW4-78aSu3frc4rVqh4THujuHQ",
+            "https://www.google.com/url?q=http://bit.ly/2K6Nnmn&sa=D&ust=1586116424571000&usg=AFQjCNF6sWZmjqROR5mbciQB_0n_OIXERA",
+            "https://www.google.com/url?q=http://bit.ly/2ILtDS0&sa=D&ust=1586116424571000&usg=AFQjCNFEgPYjykSksXUWjV20o-by9ea-aA",
+            "https://www.google.com/url?q=http://bit.ly/2ZszVNm&sa=D&ust=1586116424571000&usg=AFQjCNGZGBup4SvYXrZnn9qfE7zD1vzq0A"
+        ],
+        "Magnetic Force": [
+            "https://www.google.com/url?q=http://bit.ly/2N2aErZ&sa=D&ust=1586116424571000&usg=AFQjCNFyCOQ2owqrrbqZlaOS93bVxw6CMg",
+            "https://www.google.com/url?q=http://bit.ly/2IuCh8A&sa=D&ust=1586116424571000&usg=AFQjCNGtF9H53PyQiP1Rxa9-ari0CYknTQ",
+            "https://www.google.com/url?q=http://bit.ly/2L6Q4E4&sa=D&ust=1586116424571000&usg=AFQjCNGUWIzQnOioa8dKgExzmgS4NfYUAg",
+            "https://www.google.com/url?q=http://bit.ly/2LahgSh&sa=D&ust=1586116424572000&usg=AFQjCNFZxhWMYMXUdD_EYVu06QPveaCUoA",
+            "https://www.google.com/url?q=http://bit.ly/2LtaTK3&sa=D&ust=1586116424572000&usg=AFQjCNGRfjsLBLUs4BUtZrQzO62znBmohw",
+            "https://www.google.com/url?q=http://bit.ly/2IZeTAx&sa=D&ust=1586116424572000&usg=AFQjCNGBfvc0FOGoLqDsv2QUr50Ui__bRg"
+        ],
+        "Magnetic Field": [
+            "https://www.google.com/url?q=http://bit.ly/2ZWC2Jp&sa=D&ust=1586116424572000&usg=AFQjCNHsDJ0EW-H6MgM_mDQLyFqzY2CeQA",
+            "https://www.google.com/url?q=http://bit.ly/2LGAHCz&sa=D&ust=1586116424572000&usg=AFQjCNEJTeBPe8m86WsnyPf0zWEz6LdSdg",
+            "https://www.google.com/url?q=http://bit.ly/2YAX00c&sa=D&ust=1586116424572000&usg=AFQjCNFQiCTai2LIt7CfEYsHhkqQeq9Qdg",
+            "https://www.google.com/url?q=http://bit.ly/32ffRjt&sa=D&ust=1586116424572000&usg=AFQjCNGrg31Kg8eyawH1jDcDE_OqPWgXlg",
+            "https://www.google.com/url?q=http://bit.ly/2NYHP02&sa=D&ust=1586116424572000&usg=AFQjCNG6bjZ5xi-2VTiSZjNCPix3rPaJXg",
+            "https://www.google.com/url?q=http://bit.ly/30zlUh7&sa=D&ust=1586116424572000&usg=AFQjCNHHNO3z4ld7bouCEeXmq-JEJGBWoA",
+            "https://www.google.com/url?q=http://bit.ly/2Y78Lyj&sa=D&ust=1586116424573000&usg=AFQjCNHK04vLplRpQJXKBBVtmo-KdNRvcQ",
+            "https://www.google.com/url?q=http://bit.ly/2LwI9ky&sa=D&ust=1586116424573000&usg=AFQjCNHeXSyAh07-DJZ7iOG5DHnvh2xcdQ"
+        ],
+        "EMI": [
+            "https://www.google.com/url?q=http://bit.ly/2XVDSha&sa=D&ust=1586116424573000&usg=AFQjCNHjfbx9szHgQYM1rIn-KoR-ZcfdWw",
+            "https://www.google.com/url?q=http://bit.ly/2LZrNQS&sa=D&ust=1586116424573000&usg=AFQjCNElIFp7sA2F3fR1Bab6u80jRSFXSA",
+            "https://www.google.com/url?q=http://bit.ly/2yfTHQA&sa=D&ust=1586116424573000&usg=AFQjCNGpkPm5wc64xRCc8lty946J_2aasw",
+            "https://www.google.com/url?q=http://bit.ly/32XcJck&sa=D&ust=1586116424573000&usg=AFQjCNFGUl5K0tFiQ_9zjcW0gNhK-AM5Cw",
+            "https://www.google.com/url?q=http://bit.ly/2GvH4p2&sa=D&ust=1586116424573000&usg=AFQjCNG_poQ-F14ln2aUl99Z0pjuJdARLA",
+            "https://www.google.com/url?q=http://bit.ly/2MB4zk8&sa=D&ust=1586116424573000&usg=AFQjCNEvcqaJMVh1WNDPKS_z3uiVHe0uMw",
+            "https://www.google.com/url?q=http://bit.ly/2YFNnk4&sa=D&ust=1586116424573000&usg=AFQjCNFKy0aJcXBhRk_YFmxRUdrVUjcd7g",
+            "https://www.google.com/url?q=http://bit.ly/2MAOzyJ&sa=D&ust=1586116424574000&usg=AFQjCNGMXc_ApmSD8Pa-pt9-InGXuIpidg",
+            "https://www.google.com/url?q=http://bit.ly/2ZMJQO3&sa=D&ust=1586116424574000&usg=AFQjCNF8TO33QyOasYCnyISadX_MozH2mw",
+            "https://www.google.com/url?q=http://bit.ly/2YVZ9a2&sa=D&ust=1586116424574000&usg=AFQjCNH0eSIDvyvoCvbMDvl8ZFz0wuxDpw",
+            "https://www.google.com/url?q=http://bit.ly/2OPvs6S&sa=D&ust=1586116424574000&usg=AFQjCNEDBsOCvOKDC0Bhtbuc6WrXkChhdQ"
+        ],
+        "AC": [
+            "https://www.google.com/url?q=http://bit.ly/2z8yGaF&sa=D&ust=1586116424574000&usg=AFQjCNED_9Nrmo-nbikJUHK75VV0seYO0g",
+            "https://www.google.com/url?q=http://bit.ly/2NjpDvQ&sa=D&ust=1586116424574000&usg=AFQjCNF_mdsZXLMiFjujcHWC4NJqAhEM3A",
+            "https://www.google.com/url?q=http://bit.ly/2Z9GSSI&sa=D&ust=1586116424574000&usg=AFQjCNGgF9VB4zMOLRVk44lQ00isI54XpA",
+            "https://www.google.com/url?q=http://bit.ly/2ZcUW2V&sa=D&ust=1586116424574000&usg=AFQjCNGjyxoBuIS9ZO7uyRBIstyBc7LBkw",
+            "https://www.google.com/url?q=http://bit.ly/2Nom0oG&sa=D&ust=1586116424574000&usg=AFQjCNGufEBg0-bv7X6vDhKq3YKlT9N5JQ",
+            "https://www.google.com/url?q=http://bit.ly/2HoCzgn&sa=D&ust=1586116424575000&usg=AFQjCNFvs1EGcg1I3_wdGC9wZ8SCQQJpHQ"
+        ],
+        "Ray Optics-Reflection": [
+            "https://www.google.com/url?q=http://bit.ly/2ZqNelQ&sa=D&ust=1586116424575000&usg=AFQjCNFtKHtPxZpS7QpfAhDm4O8ErIeanQ",
+            "https://www.google.com/url?q=http://bit.ly/30VCcBT&sa=D&ust=1586116424575000&usg=AFQjCNH067tm163D8p8XCIzkgBGOwBbZRg",
+            "https://www.google.com/url?q=http://bit.ly/34ay8Q0&sa=D&ust=1586116424575000&usg=AFQjCNGpDHamwpBQdsekEavFw17XRj04Fw",
+            "https://www.google.com/url?q=http://bit.ly/2kw78bC&sa=D&ust=1586116424575000&usg=AFQjCNHtTR_WBtbLIzW_wCzK7Vei2Yn4gA"
+        ],
+        "Ray Optics-Refraction": [
+            "https://www.google.com/url?q=http://bit.ly/2m2z1bL&sa=D&ust=1586116424575000&usg=AFQjCNHPnjsRDx8dFGMMLWpz1veE0auRRQ",
+            "https://www.google.com/url?q=http://bit.ly/2k3NraY&sa=D&ust=1586116424576000&usg=AFQjCNFtGAungmNClrqXdaJt-QVVZGaj9g",
+            "https://www.google.com/url?q=http://bit.ly/2mgb1SH&sa=D&ust=1586116424576000&usg=AFQjCNGZRkWutwgz28AFuept5a06wkq3VA"
+        ],
+        "Ray Optics-Prism": [
+            "https://www.google.com/url?q=http://bit.ly/2kjl3lq&sa=D&ust=1586116424576000&usg=AFQjCNHqL2U56dn-KhcjUece5ZSmDLQ1fg",
+            "https://www.google.com/url?q=http://bit.ly/2mnIHh7&sa=D&ust=1586116424576000&usg=AFQjCNG-gxXVy2-vf14G9ZOSunKNW6seWw"
+        ],
+        "Ray Optics-Lenses": [
+            "https://www.google.com/url?q=http://bit.ly/2kNLUGi&sa=D&ust=1586116424576000&usg=AFQjCNHqNMbH30PWI58l2Cx5j8OmRDh6Og",
+            "https://www.google.com/url?q=http://bit.ly/2m4LR9m&sa=D&ust=1586116424576000&usg=AFQjCNEb_HhyrWFHg0LrISAKqDGhIbhKhQ",
+            "https://www.google.com/url?q=http://bit.ly/2m2vv14&sa=D&ust=1586116424576000&usg=AFQjCNGAB507Dp15fYxBUIsqIauagUFmOA"
+        ],
+        "Optical Instruments": [
+            "https://www.google.com/url?q=http://bit.ly/2nSKZWv&sa=D&ust=1586116424577000&usg=AFQjCNFOdON_ZyDSKnXTjaejce4TpWndAg",
+            "https://www.google.com/url?q=http://bit.ly/2nq4jdx&sa=D&ust=1586116424577000&usg=AFQjCNHEfaqU7-DKeNLsNY5FQzIfBfDtYg",
+            "https://www.google.com/url?q=http://bit.ly/2msxVqy&sa=D&ust=1586116424577000&usg=AFQjCNGfk_fb0TKHrkP0QEjDDUO8twaYeg"
+        ],
+        "Wave Optics": [
+            "https://www.google.com/url?q=http://bit.ly/2Iku6er&sa=D&ust=1586116424577000&usg=AFQjCNEfL6G0N1AiND3_xM4lCdVQ4SemxQ",
+            "https://www.google.com/url?q=http://bit.ly/31OEvGZ&sa=D&ust=1586116424577000&usg=AFQjCNG0TalwYZf9EtFZ85GgUTWACh8Ynw",
+            "https://www.google.com/url?q=http://bit.ly/31QgHCJ&sa=D&ust=1586116424577000&usg=AFQjCNEetcXbwbgX7xKsmtZ3vHDx2qr9Xg",
+            "https://www.google.com/url?q=http://bit.ly/2OFm9oq&sa=D&ust=1586116424577000&usg=AFQjCNFhfkdw_JJ4DhWdMXUzS8ElFb2Yew",
+            "https://www.google.com/url?q=http://bit.ly/2VB7hZz&sa=D&ust=1586116424577000&usg=AFQjCNFlMj5RjbjDLjl8kMNiNlIYhPRqmA",
+            "https://www.google.com/url?q=http://bit.ly/33p8sxN&sa=D&ust=1586116424577000&usg=AFQjCNGqcUijaAsby9cSt14v-KiRL5v73A",
+            "https://www.google.com/url?q=http://bit.ly/2OTwmxA&sa=D&ust=1586116424578000&usg=AFQjCNEf32bTNKggaI9racUp8mNC64o0Yw",
+            "https://www.google.com/url?q=http://bit.ly/32vQEBh&sa=D&ust=1586116424578000&usg=AFQjCNE4vdPjRvyLcSeS6hgDsOWRwauvmg",
+            "https://www.google.com/url?q=http://bit.ly/2W1CWn9&sa=D&ust=1586116424578000&usg=AFQjCNFk2vFwVW_zmEUV8yU_WxVhsea34A",
+            "https://www.google.com/url?q=http://bit.ly/33VDEVK&sa=D&ust=1586116424578000&usg=AFQjCNG2KyteGZoAqdoeSv3kE2AYGx0kkQ",
+            "https://www.google.com/url?q=http://bit.ly/2JjOVHv&sa=D&ust=1586116424578000&usg=AFQjCNG19Ok9vH22pSgLbJAXCr9MWWTkTQ"
+        ],
+        "Photoelectric Effect": [
+            "https://www.google.com/url?q=http://bit.ly/2oCmb5G&sa=D&ust=1586116424578000&usg=AFQjCNGCk2fbURjBAEdNgI2OEmFxtj46_w",
+            "https://www.google.com/url?q=http://bit.ly/36xbkvd&sa=D&ust=1586116424578000&usg=AFQjCNFcpvcO3TGa49NSW5PRIfowL9sCqw",
+            "https://www.google.com/url?q=http://bit.ly/2C2b21j&sa=D&ust=1586116424578000&usg=AFQjCNFieWkOcpZieU6GFse1JDyyJFG4ig"
+        ],
+        "Dual Nature of Radiation and Matter": [
+            "https://www.google.com/url?q=http://bit.ly/2ZdyFyG&sa=D&ust=1586116424579000&usg=AFQjCNFlMxqsGy2-HDnSvKX4DWFabIyaJQ",
+            "https://www.google.com/url?q=http://bit.ly/2qBG3Xh&sa=D&ust=1586116424579000&usg=AFQjCNFZ6icbZzrvB9M9dih5_KPAEdUBdg"
+        ],
+        "Atomic Physics": [
+            "https://www.google.com/url?q=http://bit.ly/2K5XPJ1&sa=D&ust=1586116424579000&usg=AFQjCNHW6TXlK3UORBgAQiyFWWO1ykwr2g",
+            "https://www.google.com/url?q=http://bit.ly/354BFPt&sa=D&ust=1586116424579000&usg=AFQjCNEs1hjWSPByQ819ehh8PTkAa8I2og",
+            "https://www.google.com/url?q=http://bit.ly/2Om86lR&sa=D&ust=1586116424579000&usg=AFQjCNEhU1foTk4C63bPJBDSY1rtHV3m4g",
+            "https://www.google.com/url?q=http://bit.ly/2COu63m&sa=D&ust=1586116424579000&usg=AFQjCNGPhD4Jc-eBI4z95T8BsNo85ZfgcA"
+        ],
+        "Nuclear Physics": [
+            "https://www.google.com/url?q=http://bit.ly/37wrMfl&sa=D&ust=1586116424579000&usg=AFQjCNHLlPeIvHaarUqDGRbyzhytWUtnEA",
+            "https://www.google.com/url?q=http://bit.ly/2s1zHkD&sa=D&ust=1586116424580000&usg=AFQjCNEk4jIpfHbuR9XnPpyk8s2sSmv2gg",
+            "https://www.google.com/url?q=http://bit.ly/2KKI1vw&sa=D&ust=1586116424580000&usg=AFQjCNEPdf9YmRETk0W-sVUEA1SwF2fNhw"
+        ],
+        "Radioactivity": [
+            "https://www.google.com/url?q=http://bit.ly/2OAC7Qh&sa=D&ust=1586116424580000&usg=AFQjCNGkbqthdXeWIwi8XUwyBcdjyzBqcg",
+            "https://www.google.com/url?q=http://bit.ly/33wtGJP&sa=D&ust=1586116424580000&usg=AFQjCNHD--PUGL9JwTttI8wX5l7X1ps95g",
+            "https://www.google.com/url?q=http://bit.ly/2OyFtTQ&sa=D&ust=1586116424580000&usg=AFQjCNHxGfZvUj6nSdumc8fYvmPX_JSSBw"
+        ],
+        "X-Rays": [
+            "https://www.google.com/url?q=http://bit.ly/2DQMCJ5&sa=D&ust=1586116424580000&usg=AFQjCNEAA47mmsXaCcRtKdunAYwumzRlNg",
+            "https://www.google.com/url?q=http://bit.ly/2YnWCTw&sa=D&ust=1586116424580000&usg=AFQjCNGhf1Wp76GaHjIdOKXNIWyU6ly2JQ"
+        ],
+        "Semiconductors": [
+            "https://www.google.com/url?q=http://bit.ly/3912QgM&sa=D&ust=1586116424581000&usg=AFQjCNGoYNxXP-AeVpdZK4cQ6rl5gs4rkQ",
+            "https://www.google.com/url?q=http://bit.ly/2QddmsK&sa=D&ust=1586116424581000&usg=AFQjCNE-BLXrAUSkW2LqGsLfRQg-c9U8cQ",
+            "https://www.google.com/url?q=http://bit.ly/35O6BV8&sa=D&ust=1586116424581000&usg=AFQjCNGuHr61OpUsbaRaV-BVpyyrtn_U_g",
+            "https://www.google.com/url?q=http://bit.ly/2Sx8DFo&sa=D&ust=1586116424581000&usg=AFQjCNFr705aA-kLdXALIyYgOuahtu3ZBg",
+            "https://www.google.com/url?q=http://bit.ly/2Q5bl2Z&sa=D&ust=1586116424581000&usg=AFQjCNFFmllhWh4TGY8UkJorv6KfvcMkjw"
+        ],
+        "Important topics for JEE Main": [
+            "https://www.google.com/url?q=http://bit.ly/33ZI2mi&sa=D&ust=1586116424581000&usg=AFQjCNGLcNSyaYwiEMu2XnqTxZzxv_advg",
+            "https://www.google.com/url?q=http://bit.ly/2PGRmXd&sa=D&ust=1586116424581000&usg=AFQjCNF7KeXa4acX7jKdm3oT5iCeIZpZVA",
+            "https://www.google.com/url?q=http://bit.ly/38G7roq&sa=D&ust=1586116424581000&usg=AFQjCNE827xktUx766iYVRwV3w2izp4cfA",
+            "https://www.google.com/url?q=http://bit.ly/2PG5KyQ&sa=D&ust=1586116424582000&usg=AFQjCNEEVzgOYmEITNS8_iYtJzc1YBP0mw",
+            "https://www.google.com/url?q=http://bit.ly/3912QgM&sa=D&ust=1586116424582000&usg=AFQjCNE6WOiouUe7ubi3J2x_Wr7Th9PLEQ",
+            "https://www.google.com/url?q=http://bit.ly/2QddmsK&sa=D&ust=1586116424582000&usg=AFQjCNEqP4Dl5tWP48DgltRJlGh4Rh-v9g",
+            "https://www.google.com/url?q=http://bit.ly/3912QgM&sa=D&ust=1586116424582000&usg=AFQjCNE6WOiouUe7ubi3J2x_Wr7Th9PLEQ",
+            "https://www.google.com/url?q=http://bit.ly/2Sx8DFo&sa=D&ust=1586116424582000&usg=AFQjCNGzIINXKCv0FPcqvUBtTccKAVTPog",
+            "https://www.google.com/url?q=http://bit.ly/2Q5bl2Z&sa=D&ust=1586116424582000&usg=AFQjCNGmTPFmQE-m8s31vDZ-g2sWXhwkyA",
+            "https://www.google.com/url?q=http://bit.ly/2F3MPsU&sa=D&ust=1586116424582000&usg=AFQjCNGOp8ym8e1V3BgrgJkiV8BQn9-LsA",
+            "https://www.google.com/url?q=http://bit.ly/2F3MPsU&sa=D&ust=1586116424582000&usg=AFQjCNGOp8ym8e1V3BgrgJkiV8BQn9-LsA"
+        ],
+        "Heat, Temperature and Thermal Expansion": [
+            "https://www.google.com/url?q=http://bit.ly/2QOtP7k&sa=D&ust=1586116424582000&usg=AFQjCNHk5Q_28iroSyocsCaN6v1QiHya5w",
+            "https://www.google.com/url?q=http://bit.ly/2MTpI8P&sa=D&ust=1586116424583000&usg=AFQjCNGbkHC49LXQVcB325Or5F-ux2EbjA",
+            "https://www.google.com/url?q=http://bit.ly/2ZUVSGi&sa=D&ust=1586116424583000&usg=AFQjCNG8T8RXjbnadDjZ3JjakvYFJAX78A",
+            "https://www.google.com/url?q=http://bit.ly/39Z7Umz&sa=D&ust=1586116424583000&usg=AFQjCNFbz0HNyzdXqdx5lhW7r-suggyYcA",
+            "https://www.google.com/url?q=http://bit.ly/2tNpfhC&sa=D&ust=1586116424583000&usg=AFQjCNH1VM3hZxabYYrhH4Ppich0IJeVpw"
+        ]
+    },
+    "chemistry": {
+        "Mole Concept": [
+            "https://www.google.com/url?q=http://bit.ly/2UZpbHt&sa=D&ust=1586116424537000&usg=AFQjCNELRG7Zc9BlUhQVl5lFcIm72Wpntg",
+            "https://www.google.com/url?q=http://bit.ly/2UFg6o5&sa=D&ust=1586116424537000&usg=AFQjCNGLtp9dXWQnKb02Ofg6QHnFzt6l1w",
+            "https://www.google.com/url?q=http://bit.ly/2KLN8hI&sa=D&ust=1586116424537000&usg=AFQjCNGNKRnLxWVAzGZg3ruOLPVeAZsiww",
+            "https://www.google.com/url?q=http://bit.ly/2UzSNHr&sa=D&ust=1586116424537000&usg=AFQjCNF_CC-dpfiwO5GaypcDz06Y51XBkw",
+            "https://www.google.com/url?q=http://bit.ly/2URyCJR&sa=D&ust=1586116424537000&usg=AFQjCNGP6rg8Se7yc-TrU2qskmpNdkQyYA",
+            "https://www.google.com/url?q=http://bit.ly/2XF6aaY&sa=D&ust=1586116424537000&usg=AFQjCNEKGrdqcMdRX-IQnR1ZBZXIHPE0QA",
+            "https://www.google.com/url?q=http://bit.ly/2GHylzj&sa=D&ust=1586116424537000&usg=AFQjCNF1yd6QLDKgMulcSpCZZBQYdw31NA",
+            "https://www.google.com/url?q=http://bit.ly/2UL3G9b&sa=D&ust=1586116424538000&usg=AFQjCNFVraqas12170n5fpRvFIIAndw1Tw",
+            "https://www.google.com/url?q=http://bit.ly/2GTWrYW&sa=D&ust=1586116424538000&usg=AFQjCNHuKYRYGpn3E3ePgK4g52uRKJBKaw"
+        ],
+        "Atomic Structure": [
+            "https://www.google.com/url?q=http://bit.ly/2DMEuJV&sa=D&ust=1586116424538000&usg=AFQjCNGfYZ5g-YyLYxg04x24vnnU_FaPzQ",
+            "https://www.google.com/url?q=http://bit.ly/2H2nfoK&sa=D&ust=1586116424538000&usg=AFQjCNF1Tq7HGPm5qtj5mWoGsPJOCCu5Wg",
+            "https://www.google.com/url?q=http://bit.ly/2JcLTGv&sa=D&ust=1586116424538000&usg=AFQjCNGNtGyCCKmWA6FHdAToXHKFAk4Vxg",
+            "https://www.google.com/url?q=http://bit.ly/2EaUQfE&sa=D&ust=1586116424538000&usg=AFQjCNFnu-nj57N5pWqPQHTIhJBe3I5wZQ",
+            "https://www.google.com/url?q=http://bit.ly/2Q21Tfk&sa=D&ust=1586116424539000&usg=AFQjCNHaqgJ2vYgqR9yVfVa8j_4GD-LyXQ",
+            "https://www.google.com/url?q=http://bit.ly/2VKL4GN&sa=D&ust=1586116424539000&usg=AFQjCNF86zpLkCNIfXhK4EbDUuXcx0Jp4Q",
+            "https://www.google.com/url?q=http://bit.ly/2Qe5I10&sa=D&ust=1586116424539000&usg=AFQjCNHI4h_6CgfTJ-iZ2P5Q9D8GWRcFig",
+            "https://www.google.com/url?q=http://bit.ly/2En6GTP&sa=D&ust=1586116424539000&usg=AFQjCNH_qUc2zc1miYO8c_3g2VywjMckoA",
+            "https://www.google.com/url?q=http://bit.ly/2WhIZX9&sa=D&ust=1586116424539000&usg=AFQjCNHJ6CTbfJLhTKSQUvxxANdlZ7bZ4Q",
+            "https://www.google.com/url?q=http://bit.ly/2W76djL&sa=D&ust=1586116424539000&usg=AFQjCNFa7pUVFYsEYrxs5yB30vurqxdZew",
+            "https://www.google.com/url?q=http://bit.ly/2WrFsWt&sa=D&ust=1586116424539000&usg=AFQjCNG0IKQZa4aHSGL6jmzcV0NMzjzeLw",
+            "https://www.google.com/url?q=http://bit.ly/2Z68zfD&sa=D&ust=1586116424539000&usg=AFQjCNH6WghTBRY5FjtJHZkMAndpZoT06A"
+        ],
+        "Periodic Properties": [
+            "https://www.google.com/url?q=http://bit.ly/2WLvbVm&sa=D&ust=1586116424540000&usg=AFQjCNH619hCw0ghlzv7bYJyG0uk5Cj6dA",
+            "https://www.google.com/url?q=http://bit.ly/2WpTrrX&sa=D&ust=1586116424540000&usg=AFQjCNEKhe43WHK8uWMud0fbguWidZQaaA",
+            "https://www.google.com/url?q=http://bit.ly/2wOujR8&sa=D&ust=1586116424540000&usg=AFQjCNHmiYBiB4p1G7jB9AUgIvpW8LhScQ",
+            "https://www.google.com/url?q=http://bit.ly/2Zn74tD&sa=D&ust=1586116424540000&usg=AFQjCNEnF8KuGLhKHVyo7zy76uPQl-yQyg",
+            "https://www.google.com/url?q=http://bit.ly/2WQTyg1&sa=D&ust=1586116424540000&usg=AFQjCNGE9Ufy7eyKRZOpzl29B0L_ulu0NQ"
+        ],
+        "Chemical Bonding": [
+            "https://www.google.com/url?q=http://bit.ly/2RjrEZ0&sa=D&ust=1586116424541000&usg=AFQjCNHUHzYvaqw0D8XE6Anyir5hz8NYqw",
+            "https://www.google.com/url?q=http://bit.ly/2KqfSLW&sa=D&ust=1586116424541000&usg=AFQjCNEfm9fRaYRlE_bz26AmmYJWbqqd7Q",
+            "https://www.google.com/url?q=http://bit.ly/2X18fx8&sa=D&ust=1586116424541000&usg=AFQjCNGn1mOmgRcq18wWSN55XUQSzb0_bQ",
+            "https://www.google.com/url?q=http://bit.ly/2JajAX1&sa=D&ust=1586116424541000&usg=AFQjCNENR154K7iwBK6q7ctxoXL2XlxC1Q",
+            "https://www.google.com/url?q=http://bit.ly/2RAURib&sa=D&ust=1586116424541000&usg=AFQjCNEX7CJfJUny0et1X_4NKvnwsPe1QA",
+            "https://www.google.com/url?q=http://bit.ly/2KQsGLF&sa=D&ust=1586116424541000&usg=AFQjCNHk2y2OGPS_1eheiM3x13a1A9KOPQ",
+            "https://www.google.com/url?q=http://bit.ly/322qMNq&sa=D&ust=1586116424541000&usg=AFQjCNHb7TGzwGeebdVI_lx-C6Z_qCfbTg",
+            "https://www.google.com/url?q=http://bit.ly/2Xl0pnc&sa=D&ust=1586116424541000&usg=AFQjCNFZ3JQg8UTAzysCxt6V_xuCFaTQ0w",
+            "https://www.google.com/url?q=http://bit.ly/2JvJDIq&sa=D&ust=1586116424542000&usg=AFQjCNE1GkYS2HI5fOb4dZMEbCmI7njwzw"
+        ],
+        "States of Matter": [
+            "https://www.google.com/url?q=http://bit.ly/2kYgI7p&sa=D&ust=1586116424542000&usg=AFQjCNGD6G9pe9UaeA_ilyPMxCsnVbPTbQ",
+            "https://www.google.com/url?q=http://bit.ly/2ZhNRdh&sa=D&ust=1586116424542000&usg=AFQjCNHepvB8xBKE3VUd87kGtgHUQnZIdw",
+            "https://www.google.com/url?q=http://bit.ly/2KcF7i7&sa=D&ust=1586116424542000&usg=AFQjCNH379Qdt5TzWrvcUVmkF4L9-aTt9Q",
+            "https://www.google.com/url?q=http://bit.ly/2LRKG8S&sa=D&ust=1586116424542000&usg=AFQjCNEARpnubVIV3w45hChdpOWdOzMsmg",
+            "https://www.google.com/url?q=http://bit.ly/2T5ml0p&sa=D&ust=1586116424542000&usg=AFQjCNE_gD1FXFZigfbCumuH026b1qrsvg",
+            "https://www.google.com/url?q=http://bit.ly/33iABr2&sa=D&ust=1586116424542000&usg=AFQjCNEM8HqMshy13Q7TMe7KYeiFXP1rew",
+            "https://www.google.com/url?q=http://bit.ly/2YN55OI&sa=D&ust=1586116424542000&usg=AFQjCNGLQLLZKdQpoKr4aYm2pblbtmqztA",
+            "https://www.google.com/url?q=http://bit.ly/2OQZY0b&sa=D&ust=1586116424542000&usg=AFQjCNHmzVGh23WdgOg9iqtOW9zznaNezQ"
+        ],
+        "Thermodynamics": [
+            "https://www.google.com/url?q=http://bit.ly/2Mq7eOB&sa=D&ust=1586116424543000&usg=AFQjCNGrsoxmJTVp-9fHBLzTaHyhIMIO4g",
+            "https://www.google.com/url?q=http://bit.ly/2PfvxAK&sa=D&ust=1586116424543000&usg=AFQjCNEeYHRgZoIH0sRNyHcIH2BrBddNfw",
+            "https://www.google.com/url?q=http://bit.ly/31XBtAb&sa=D&ust=1586116424543000&usg=AFQjCNFO0oPgDNI4m2DTmb1MmlUCrAULXg",
+            "https://www.google.com/url?q=http://bit.ly/323VYes&sa=D&ust=1586116424543000&usg=AFQjCNENrcgob09v4ksERwDiRtv8AhV6SA",
+            "https://www.google.com/url?q=http://bit.ly/30CqTyh&sa=D&ust=1586116424543000&usg=AFQjCNEZPwWh2kU-b9YS2spjuYhubVZI0A",
+            "https://www.google.com/url?q=http://bit.ly/2LakO5w&sa=D&ust=1586116424543000&usg=AFQjCNEP_xdcXII5etj5TyC1Y7TieXS__A",
+            "https://www.google.com/url?q=http://bit.ly/2knDAwM&sa=D&ust=1586116424543000&usg=AFQjCNFDKZFe56bjflatoRo3I7PdwdOsaA",
+            "https://www.google.com/url?q=http://bit.ly/2ltwxDd&sa=D&ust=1586116424543000&usg=AFQjCNFCIFyH9TLjnbQjk27VZrusyWdHSQ",
+            "https://www.google.com/url?q=http://bit.ly/2kjgpnB&sa=D&ust=1586116424544000&usg=AFQjCNHfdmSwApT5PT-XhlAvRw8ywMDYyw"
+        ],
+        "Thermochemistry": [
+            "https://www.google.com/url?q=http://bit.ly/2kcRrpS&sa=D&ust=1586116424544000&usg=AFQjCNFXnGYlVPprG9wXyyU-pf4Eg4jXzA",
+            "https://www.google.com/url?q=http://bit.ly/2ma90rb&sa=D&ust=1586116424544000&usg=AFQjCNHz9zJ9xI-cE8Bukfs4XFatiQdRFQ",
+            "https://www.google.com/url?q=http://bit.ly/2kgFkYS&sa=D&ust=1586116424544000&usg=AFQjCNFZvZJCk5YZTsfQbzh2Ay_uHn6BMQ"
+        ],
+        "Chemical Equilibrium": [
+            "https://www.google.com/url?q=http://bit.ly/2lR0flK&sa=D&ust=1586116424544000&usg=AFQjCNHAqlXxVryEntzCpZ1cx1jBioXpGw",
+            "https://www.google.com/url?q=http://bit.ly/2lYDYlO&sa=D&ust=1586116424544000&usg=AFQjCNGJ1Werc7AMi24owCoAVOa_JNHorA",
+            "https://www.google.com/url?q=http://bit.ly/2kQb7jq&sa=D&ust=1586116424544000&usg=AFQjCNGcHn7R4RabqhcdqZKg5beHaV2WCA",
+            "https://www.google.com/url?q=http://bit.ly/2mzOJLR&sa=D&ust=1586116424545000&usg=AFQjCNGhE-tz4WKbjTq-aav_V1XquehIDA",
+            "https://www.google.com/url?q=http://bit.ly/2mUw7GC&sa=D&ust=1586116424545000&usg=AFQjCNGFd8Rpn2Ev_JlsfvMTKpJSvzpHtA"
+        ],
+        "Redox Reactions": [
+            "https://www.google.com/url?q=http://bit.ly/2nR6jM7&sa=D&ust=1586116424545000&usg=AFQjCNFx5qWazAEta36REIqIciIaVF0Pow",
+            "https://www.google.com/url?q=http://bit.ly/2mJUmYo&sa=D&ust=1586116424545000&usg=AFQjCNEu1N2F3RbfegKnqmdysbt3jouAYw",
+            "https://www.google.com/url?q=http://bit.ly/2oB6Baf&sa=D&ust=1586116424545000&usg=AFQjCNEGfkf5oVeYORPK6gpqFPm7yiEnuw"
+        ],
+        "General Organic Chemistry": [
+            "https://www.google.com/url?q=http://bit.ly/31jqyzO&sa=D&ust=1586116424545000&usg=AFQjCNFb7K5kuAgueSankhCtGIJtDvsPRg",
+            "https://www.google.com/url?q=http://bit.ly/31l1PLN&sa=D&ust=1586116424545000&usg=AFQjCNGWaNHZjbwjJg7jbNvgG0NGhyvxjQ",
+            "https://www.google.com/url?q=http://bit.ly/32AFt9u&sa=D&ust=1586116424545000&usg=AFQjCNFYkQ5GSeR69JqkVtgkt2J2kOiIFg",
+            "https://www.google.com/url?q=http://bit.ly/2NDZB6u&sa=D&ust=1586116424546000&usg=AFQjCNEW8_CAQ7uvJjo4BqAJjVJN0jKcMA",
+            "https://www.google.com/url?q=http://bit.ly/35elI9o&sa=D&ust=1586116424546000&usg=AFQjCNGUYONZNvnySOa1wdBG2RlmrAeXVQ",
+            "https://www.google.com/url?q=http://bit.ly/2qiIE8Y&sa=D&ust=1586116424546000&usg=AFQjCNHkJaL64eHxl4mEQ3ctjfRr5v7vIw",
+            "https://www.google.com/url?q=http://bit.ly/2OtffRf&sa=D&ust=1586116424546000&usg=AFQjCNGtae3k7fWb2OT9kReiFkEGI2v4vg",
+            "https://www.google.com/url?q=http://bit.ly/2Dh3GHE&sa=D&ust=1586116424546000&usg=AFQjCNG2X7DNZqCbzb9fVrrYR1Jmll4U0g",
+            "https://www.google.com/url?q=http://bit.ly/2sjO0Bn&sa=D&ust=1586116424546000&usg=AFQjCNEjrwy8miofUpTxZLzCaFiJpxGKSw"
+        ],
+        "Isomerism": [
+            "https://www.google.com/url?q=http://bit.ly/2Ca0PQj&sa=D&ust=1586116424546000&usg=AFQjCNEuJ5CuZGl4cegSFCtJUhi7L375qw",
+            "https://www.google.com/url?q=http://bit.ly/36EdAjY&sa=D&ust=1586116424546000&usg=AFQjCNE8EB0dqT_OkSXShO9g5Bd9lltdCA",
+            "https://www.google.com/url?q=http://bit.ly/36I2Wc3&sa=D&ust=1586116424547000&usg=AFQjCNGj-wPY7FHz63Sgn6VOZI8zpdBP0Q"
+        ],
+        "Reaction Intermediates": [
+            "https://www.google.com/url?q=http://bit.ly/2OtEKTX&sa=D&ust=1586116424547000&usg=AFQjCNGcyolKTs0_QGuV7lGB8zUM_MKDeg",
+            "https://www.google.com/url?q=http://bit.ly/37VQwOs&sa=D&ust=1586116424547000&usg=AFQjCNH9TTvMs_DB5SEx7E9WFZD3tutYvQ",
+            "https://www.google.com/url?q=http://bit.ly/33LVxpz&sa=D&ust=1586116424547000&usg=AFQjCNHdtOudfHCcOCrWTMx6O0GP8Q26kA",
+            "https://www.google.com/url?q=http://bit.ly/2rTo6UL&sa=D&ust=1586116424547000&usg=AFQjCNF3y184liR2oY8M5L6fiyb8dFweIA",
+            "https://www.google.com/url?q=http://bit.ly/35edXke&sa=D&ust=1586116424547000&usg=AFQjCNFwH7m-4FhrnL4Z4m6izlBu5KC0cQ"
+        ],
+        "S - Block": [
+            "https://www.google.com/url?q=http://bit.ly/36gbAhl&sa=D&ust=1586116424547000&usg=AFQjCNHezxfTl1dVfFniXbn_FMp3kgwi7A",
+            "https://www.google.com/url?q=http://bit.ly/2ZGvFed&sa=D&ust=1586116424547000&usg=AFQjCNEgqeS9G8IQ_phMyPsBPoukAkBaBw"
+        ],
+        "Stereochemistry": [
+            "https://www.google.com/url?q=http://bit.ly/36H9Ttm&sa=D&ust=1586116424548000&usg=AFQjCNGEwt8SpV2wyZQeQN0tErASen09UQ",
+            "https://www.google.com/url?q=http://bit.ly/38SbsGP&sa=D&ust=1586116424548000&usg=AFQjCNFchlGvrhOBlgcXnAo6A71ILPhDug",
+            "https://www.google.com/url?q=http://bit.ly/34Eeawh&sa=D&ust=1586116424548000&usg=AFQjCNHWmVzC7r4s4vSUht-HI27EbYD1ew",
+            "https://www.google.com/url?q=http://bit.ly/36YqIzO&sa=D&ust=1586116424548000&usg=AFQjCNE7CTat8_HaXXnLRkeoJbbsK-w1dg",
+            "https://www.google.com/url?q=http://bit.ly/2Mudkff&sa=D&ust=1586116424548000&usg=AFQjCNEADTQHUxTRpS03qJ8GHFN320Xblg",
+            "https://www.google.com/url?q=http://bit.ly/37JB07B&sa=D&ust=1586116424548000&usg=AFQjCNFgSkOsEaGWqntdSVlVIwKRfq32eg",
+            "https://www.google.com/url?q=http://bit.ly/2Rw2FCf&sa=D&ust=1586116424548000&usg=AFQjCNHxrLGyYsWhZB7WFFyehderhNb_Zw",
+            "https://www.google.com/url?q=http://bit.ly/2G5Xunn&sa=D&ust=1586116424548000&usg=AFQjCNERIxo7bXRNvF_D73NxOdsUzHQwRg",
+            "https://www.google.com/url?q=http://bit.ly/2NQx5OR&sa=D&ust=1586116424548000&usg=AFQjCNGTR8PN0B_zsM62sWCc7KWSQlPrHA"
+        ],
+        "Alkanes": [
+            "https://www.google.com/url?q=http://bit.ly/2TT22ph&sa=D&ust=1586116424549000&usg=AFQjCNEVzsOe4yjSnIUh_un1vdQeKXZ5HA",
+            "https://www.google.com/url?q=http://bit.ly/2ZV1fFd&sa=D&ust=1586116424549000&usg=AFQjCNF6owwpbGbDJ0x6nCs4kYiFNiLFAQ",
+            "https://www.google.com/url?q=http://bit.ly/2GrA2Bc&sa=D&ust=1586116424549000&usg=AFQjCNHBCR_gd3oga70UUAOYQO9TDsuUFQ",
+            "https://www.google.com/url?q=http://bit.ly/2uxfhS2&sa=D&ust=1586116424549000&usg=AFQjCNE-Fw7AlIyw1zR0xBINJZFyrxoJ8Q"
+        ],
+        "Alkenes": [
+            "https://www.google.com/url?q=http://bit.ly/2vtRR0g&sa=D&ust=1586116424549000&usg=AFQjCNGuBa2CX1Vvc-I9U_7XjPT4SjSQNA",
+            "https://www.google.com/url?q=http://bit.ly/2Gy0xoD&sa=D&ust=1586116424550000&usg=AFQjCNHA-Mw2IMam7R4FLetyCZb0alRVzA",
+            "https://www.google.com/url?q=http://bit.ly/38UWQFz&sa=D&ust=1586116424550000&usg=AFQjCNE0w3V8ML8VUxURxh6nJ-DAvziZkQ",
+            "https://www.google.com/url?q=http://bit.ly/2SkXXrp&sa=D&ust=1586116424550000&usg=AFQjCNEV11HjPX1LHQQnFg6s5nkkjV4b5Q",
+            "https://www.google.com/url?q=http://bit.ly/2SwGXPc&sa=D&ust=1586116424550000&usg=AFQjCNFCZXtCCPA1xxGwgDEl6Qz-7RRj1Q",
+            "https://www.google.com/url?q=http://bit.ly/39sctVm&sa=D&ust=1586116424550000&usg=AFQjCNHsXTXKnXxHiYaSRt-ZMhs8iNaBAA"
+        ],
+        "Nitrogen Family": [
+            "https://www.google.com/url?q=http://bit.ly/2RVL1Z1&sa=D&ust=1586116424550000&usg=AFQjCNHXuvDgGZ7NHie7KduuxXajA32G1Q",
+            "https://www.google.com/url?q=http://bit.ly/2TZS9WT&sa=D&ust=1586116424550000&usg=AFQjCNGKALAK8RjP56N_wul6dHckURQ-IQ",
+            "https://www.google.com/url?q=http://bit.ly/38MYjxS&sa=D&ust=1586116424550000&usg=AFQjCNFXJ4_cjL_qaqI3ZkA-gw-fZgv2bQ",
+            "https://www.google.com/url?q=http://bit.ly/2U8AvQD&sa=D&ust=1586116424550000&usg=AFQjCNEXEcEx_mf3vAqn2lgeSOd_188pmA"
+        ],
+        "Ionic Equilibrium": [
+            "https://www.google.com/url?q=http://bit.ly/37OXfJF&sa=D&ust=1586116424551000&usg=AFQjCNH_SnpI6HFglm7wc84jNIKFZLEazg",
+            "https://www.google.com/url?q=http://bit.ly/2OipDvN&sa=D&ust=1586116424551000&usg=AFQjCNH-B1F8YNlHQWzuS7RGEPra1KdF-Q",
+            "https://www.google.com/url?q=http://bit.ly/2UmgZAA&sa=D&ust=1586116424551000&usg=AFQjCNE3XOiGaoo0EeaDtuqIR_BFzj0y7A",
+            "https://www.google.com/url?q=http://bit.ly/2UpyArm&sa=D&ust=1586116424551000&usg=AFQjCNFUWBlwzD4yzy-0wHZF_ouQs7NUPA",
+            "https://www.google.com/url?q=http://bit.ly/2viDyvd&sa=D&ust=1586116424551000&usg=AFQjCNH1KcNNp2QdQrJqdRoesqhN5y3uWw",
+            "https://www.google.com/url?q=http://bit.ly/39hJ6oE&sa=D&ust=1586116424551000&usg=AFQjCNHZ_PRM8RAiXu3J09qPhHU_-mZmnw",
+            "https://www.google.com/url?q=http://bit.ly/2TdtAF2&sa=D&ust=1586116424551000&usg=AFQjCNECCXYdAKZdvAOe0fWb5xs41DJMzA",
+            "https://www.google.com/url?q=http://bit.ly/3crmkgr&sa=D&ust=1586116424552000&usg=AFQjCNFAOWApKM5aYTAPgEmtaCNrHhuI3A"
+        ],
+        "Boron Family": [
+            "https://www.google.com/url?q=http://bit.ly/2u8fE55&sa=D&ust=1586116424552000&usg=AFQjCNFB_Xnj2eAQGQAVaRkHwjDqP8FF6Q",
+            "https://www.google.com/url?q=http://bit.ly/2ZV1fFd&sa=D&ust=1586116424552000&usg=AFQjCNETbS-_GGCXrumPmc4inXETRjzZJg",
+            "https://www.google.com/url?q=http://bit.ly/2sQdjeL&sa=D&ust=1586116424552000&usg=AFQjCNGe7SIBzJNOKjz_gvi8TGqGJS7C-A",
+            "https://www.google.com/url?q=http://bit.ly/2v1UVAF&sa=D&ust=1586116424552000&usg=AFQjCNGEra0vAssQ3DhtG-6WZ2eW__qXrg",
+            "https://www.google.com/url?q=http://bit.ly/30z997F&sa=D&ust=1586116424552000&usg=AFQjCNFNScT8lPbwtiFPys9pDYYSGGIuPw"
+        ],
+        "Aromatic Hydrocarbens": [
+            "https://www.google.com/url?q=http://bit.ly/2P9Ivhf&sa=D&ust=1586116424552000&usg=AFQjCNGvA4IF7i2JXV0scOx4rOrvz0blsg",
+            "https://www.google.com/url?q=http://bit.ly/2HVYs6p&sa=D&ust=1586116424553000&usg=AFQjCNHN9nqC10q5xsLM3NudMWMWRSRuCg",
+            "https://www.google.com/url?q=http://bit.ly/2VkhJX9&sa=D&ust=1586116424553000&usg=AFQjCNEb7fdAZlkNFx1CdGWiTVVHVKX2Nw",
+            "https://www.google.com/url?q=http://bit.ly/2VnaOwn&sa=D&ust=1586116424553000&usg=AFQjCNGYJNbigF41aPovGQ3MqoO7HCLOIw"
+        ],
+        "Solutions": [
+            "https://www.google.com/url?q=http://bit.ly/2X10c3O&sa=D&ust=1586116424583000&usg=AFQjCNFeYzHpMeQjLRALL_Sq3LWk4O6TDw",
+            "https://www.google.com/url?q=http://bit.ly/2GlaVAA&sa=D&ust=1586116424584000&usg=AFQjCNGiw3exib70yhTdaZa6F2usy36fjA",
+            "https://www.google.com/url?q=http://bit.ly/2Ijtac0&sa=D&ust=1586116424584000&usg=AFQjCNENhOdYZeeND-Qx6BHWmA10XEXO_w",
+            "https://www.google.com/url?q=http://bit.ly/2VYt4ty&sa=D&ust=1586116424584000&usg=AFQjCNGqKKHllZL7xOizU-aE5g-WILvFug",
+            "https://www.google.com/url?q=http://bit.ly/2GwbnvX&sa=D&ust=1586116424584000&usg=AFQjCNGikSEkY0KaFseiUmOR8lsxFa1z0Q",
+            "https://www.google.com/url?q=http://bit.ly/2PnmYk7&sa=D&ust=1586116424584000&usg=AFQjCNFcY0PqSjZjGsoZfQg5C_oKG9nhzg",
+            "https://www.google.com/url?q=http://bit.ly/2DBgrNR&sa=D&ust=1586116424584000&usg=AFQjCNHxvcQoP1eJtK4Q_TlUwmCLlv_MXg",
+            "https://www.google.com/url?q=http://bit.ly/2IHYsJK&sa=D&ust=1586116424584000&usg=AFQjCNF76q5fVAtiwsHyocCKl7EixSxagg",
+            "https://www.google.com/url?q=http://bit.ly/2UILTj8&sa=D&ust=1586116424584000&usg=AFQjCNHUxmnsCaliJuFh3blmSHJ2-IjIaQ"
+        ],
+        "Electrochemistry": [
+            "https://www.google.com/url?q=http://bit.ly/2LB6oz1&sa=D&ust=1586116424585000&usg=AFQjCNGmCQj-7diDqn7_oBWbSH94L_yXDg",
+            "https://www.google.com/url?q=http://bit.ly/2ViALOT&sa=D&ust=1586116424585000&usg=AFQjCNF_p1hD1CQWKcmmgB84AhN_oOMWyQ",
+            "https://www.google.com/url?q=http://bit.ly/2DJKm6r&sa=D&ust=1586116424585000&usg=AFQjCNFEkj54avCmyIwf9Z-ZI6_PfrgAOQ",
+            "https://www.google.com/url?q=http://bit.ly/2JflFn8&sa=D&ust=1586116424585000&usg=AFQjCNH_zwaQf-V565ezRiZfo2_Z7udWMA",
+            "https://www.google.com/url?q=http://bit.ly/2HkuQ1W&sa=D&ust=1586116424585000&usg=AFQjCNFGnmnDgvU7gicmbSEak1T2XrQAeQ",
+            "https://www.google.com/url?q=http://bit.ly/2YiAqc4&sa=D&ust=1586116424585000&usg=AFQjCNGh7sXkLlIWPE0JhK5i6yt9B8s0iQ",
+            "https://www.google.com/url?q=http://bit.ly/2HB9U6Y&sa=D&ust=1586116424585000&usg=AFQjCNHq3lQPMzGQz_2pHvq_WHWfocLaNQ",
+            "https://www.google.com/url?q=http://bit.ly/2EhQKSV&sa=D&ust=1586116424585000&usg=AFQjCNF6oOsoZ3aI_2rsiJKg8cj2qAXcRQ",
+            "https://www.google.com/url?q=http://bit.ly/2VQ57IQ&sa=D&ust=1586116424585000&usg=AFQjCNFd5w0NjUnuuxoSzjppd1VgFlHWfw",
+            "https://www.google.com/url?q=http://bit.ly/2M84iH7&sa=D&ust=1586116424585000&usg=AFQjCNH8lh50yJUHYZVQa3ixjutExom0GA"
+        ],
+        "Chemical Kinetics": [
+            "https://www.google.com/url?q=http://bit.ly/30FtGqI&sa=D&ust=1586116424586000&usg=AFQjCNG3K3XCrw1Au0P0qlEyozWvqqPgig",
+            "https://www.google.com/url?q=http://bit.ly/2VUqGDa&sa=D&ust=1586116424586000&usg=AFQjCNFCZQz_N2e__auq50zn6zIsWYtYOw",
+            "https://www.google.com/url?q=http://bit.ly/2YXpwc7&sa=D&ust=1586116424586000&usg=AFQjCNHI-FdRb30_3pqI3bPsWGWP-leD8w",
+            "https://www.google.com/url?q=http://bit.ly/2MxhKnM&sa=D&ust=1586116424586000&usg=AFQjCNHLaCEy_JpVmWIF5K6bonhM_P0yzg",
+            "https://www.google.com/url?q=http://bit.ly/2MBrkX9&sa=D&ust=1586116424586000&usg=AFQjCNFUwEUAMH9YBQB4WhJt4BDd8PbmlA",
+            "https://www.google.com/url?q=http://bit.ly/2Wm8N0z&sa=D&ust=1586116424586000&usg=AFQjCNHHmWnRrIFWlI3gjTockgO87orAdQ",
+            "https://www.google.com/url?q=http://bit.ly/2wJEAOw&sa=D&ust=1586116424586000&usg=AFQjCNEaXWSGu9GM3Gs92ypJQnWDljBHWA",
+            "https://www.google.com/url?q=http://bit.ly/2EZl7xN&sa=D&ust=1586116424586000&usg=AFQjCNGP5xck49kUhyuEdGlpimFdNs3XwA",
+            "https://www.google.com/url?q=http://bit.ly/2XP4Q5W&sa=D&ust=1586116424587000&usg=AFQjCNFTt6vKO9wf0TVsKh60X49GO60GmQ"
+        ],
+        "Haloalkanes": [
+            "https://www.google.com/url?q=http://bit.ly/2XdYJH6&sa=D&ust=1586116424587000&usg=AFQjCNGumMymdF67NhqsSDBPT26f9_ik6A",
+            "https://www.google.com/url?q=http://bit.ly/2Yn0QtR&sa=D&ust=1586116424587000&usg=AFQjCNH9JOJCwEdtExbkEplLgcJbWmQZLA",
+            "https://www.google.com/url?q=http://bit.ly/32naVcv&sa=D&ust=1586116424587000&usg=AFQjCNFlbkpdegKeHVlzIs3cf_4m2rMNzg",
+            "https://www.google.com/url?q=http://bit.ly/2NRzBqp&sa=D&ust=1586116424587000&usg=AFQjCNEQdEhE6cMok6RKzlnjKPWr1d1tAw"
+        ],
+        "SN Reactions": [
+            "https://www.google.com/url?q=http://bit.ly/32FgDGI&sa=D&ust=1586116424587000&usg=AFQjCNGCAWGzP6YXtqyrwFnbsCehVt9YdQ",
+            "https://www.google.com/url?q=https://youtu.be/U6o6f6j6Iuc&sa=D&ust=1586116424587000&usg=AFQjCNHenLLKPxIloytLH3gCoaGb7EvO4Q",
+            "https://www.google.com/url?q=http://bit.ly/2Ye781Y&sa=D&ust=1586116424587000&usg=AFQjCNERNG9bmmakgAaIpq1PZiy8FlxHUg",
+            "https://www.google.com/url?q=http://bit.ly/2Ye74zg&sa=D&ust=1586116424588000&usg=AFQjCNGLJeCvl0-TsSHWV69FIZ41XmZCOQ",
+            "https://www.google.com/url?q=http://bit.ly/2KecAKc&sa=D&ust=1586116424588000&usg=AFQjCNGeLa_AZyraTGWkmEmAImpiwgBPWg",
+            "https://www.google.com/url?q=http://bit.ly/2Kf1BAA&sa=D&ust=1586116424588000&usg=AFQjCNHMkyaZyRtI2LhT6jbcNQ5PjrW7WA",
+            "https://www.google.com/url?q=http://bit.ly/31b2W0A&sa=D&ust=1586116424588000&usg=AFQjCNHZlm2ebhrIvr98tFdcIjVlb_wAkw"
+        ],
+        "Organic Chemistry": [
+            "https://www.google.com/url?q=http://bit.ly/2IIv97G&sa=D&ust=1586116424588000&usg=AFQjCNGAw3rPWEzNQtju7SeDHkKtDoc1oA",
+            "https://www.google.com/url?q=http://bit.ly/2XbSlED&sa=D&ust=1586116424588000&usg=AFQjCNHHUGHFCwruJnf3BusGrpHIxaMWtg",
+            "https://www.google.com/url?q=http://bit.ly/2L6V5wr&sa=D&ust=1586116424588000&usg=AFQjCNFvzx1y5W-2dL6L2G1CscCo5T_Yig",
+            "https://www.google.com/url?q=http://bit.ly/2XuC5hW&sa=D&ust=1586116424588000&usg=AFQjCNE3d4ZklSTIOiYiWy3NHEU-laCIsw",
+            "https://www.google.com/url?q=http://bit.ly/2ZDAUu2&sa=D&ust=1586116424589000&usg=AFQjCNGwHN792Lb0x_-Y_M7_0lsZK2Uebw",
+            "https://www.google.com/url?q=http://bit.ly/2NhSWNI&sa=D&ust=1586116424589000&usg=AFQjCNHabUgUYXy12M0uY83Pg_NSOVjjhQ"
+        ],
+        "Alcohols": [
+            "https://www.google.com/url?q=http://bit.ly/2Kq4UVs&sa=D&ust=1586116424589000&usg=AFQjCNGk-lJhq4WBIkZ5rntfJmEgKAZDTQ",
+            "https://www.google.com/url?q=http://bit.ly/33p6LBn&sa=D&ust=1586116424589000&usg=AFQjCNFzSeOCDsv6CGC2KNITPNDdzA6UoA",
+            "https://www.google.com/url?q=http://bit.ly/2MN0eL0&sa=D&ust=1586116424589000&usg=AFQjCNEH7eWRackjchMMvp2pmamHOpXtoQ",
+            "https://www.google.com/url?q=https://youtu.be/ycrRnuI5k8I&sa=D&ust=1586116424589000&usg=AFQjCNHVlnqtlvaOmxt35NkkxftaFXPvjw",
+            "https://www.google.com/url?q=http://bit.ly/2Nbok29&sa=D&ust=1586116424589000&usg=AFQjCNHu0zd6XTg05kRrIrPdG8shGmDwCA",
+            "https://www.google.com/url?q=http://bit.ly/2KF5iPZ&sa=D&ust=1586116424589000&usg=AFQjCNE6TkECJ1t72i41MJdsNwWS_AJbtw",
+            "https://www.google.com/url?q=http://bit.ly/2ZnBnQx&sa=D&ust=1586116424590000&usg=AFQjCNF7DyIyAFewTBSTbAT3x8EQoQnqlQ",
+            "https://www.google.com/url?q=http://bit.ly/2ZhCshJ&sa=D&ust=1586116424590000&usg=AFQjCNEdrA3O5FI9mpB9OT6B6A0vBJQmlg",
+            "https://www.google.com/url?q=http://bit.ly/2PajnJv&sa=D&ust=1586116424590000&usg=AFQjCNFNuLKNjZyjn95rkFK_K7qpT46LZQ",
+            "https://www.google.com/url?q=http://bit.ly/2nTMbJG&sa=D&ust=1586116424590000&usg=AFQjCNERDCiD5hvzdPULTUxOJ_ENo_ee-Q",
+            "https://www.google.com/url?q=http://bit.ly/2Nbzy58&sa=D&ust=1586116424590000&usg=AFQjCNFmxfEpnlr-7ZZe19LlPNUc1ULdBQ"
+        ],
+        "Phenols": [
+            "https://www.google.com/url?q=http://bit.ly/2UlJ3ll&sa=D&ust=1586116424590000&usg=AFQjCNE0AG44Wnac8P0jR5N6ezkjeCfa3w",
+            "https://www.google.com/url?q=http://bit.ly/2Ps9NSu&sa=D&ust=1586116424591000&usg=AFQjCNGyM2j8mgeiP7FmH7qVyTf6E1sOyg",
+            "https://www.google.com/url?q=http://bit.ly/2UiEj03&sa=D&ust=1586116424591000&usg=AFQjCNGVxsuMwpuGJxYiGlt1LMgUFHALGg",
+            "https://www.google.com/url?q=http://bit.ly/2nTMbJG&sa=D&ust=1586116424591000&usg=AFQjCNFnppFEcuMFXCNwaKn_8g4hRmc-jw"
+        ],
+        "Aldehydes & Ketones": [
+            "https://www.google.com/url?q=http://bit.ly/2kwJsnC&sa=D&ust=1586116424591000&usg=AFQjCNGLURVwwaB34rAP9QdM17K0_rYgXA",
+            "https://www.google.com/url?q=http://bit.ly/2k2WHw0&sa=D&ust=1586116424591000&usg=AFQjCNH0ZD9ze6_nJ4Vd6ACz6mIhcfVfDg",
+            "https://www.google.com/url?q=http://bit.ly/2kxgGDl&sa=D&ust=1586116424591000&usg=AFQjCNHcn5GLkObK_o9to70xZ6LsN0Ehng",
+            "https://www.google.com/url?q=http://bit.ly/2kz9bvQ&sa=D&ust=1586116424591000&usg=AFQjCNFiuAQiclzgtH1pP-CSK0kcFAhHxA",
+            "https://www.google.com/url?q=http://bit.ly/2lVn2MZ&sa=D&ust=1586116424591000&usg=AFQjCNEWgZsjFzMDzuGG3hQqwv-0J22I6A",
+            "https://www.google.com/url?q=http://bit.ly/2lMuGJH&sa=D&ust=1586116424592000&usg=AFQjCNENUJFdNt-ofPu6pl3YVqe3zUYA7Q",
+            "https://www.google.com/url?q=http://bit.ly/2mnxP2Q&sa=D&ust=1586116424592000&usg=AFQjCNFbukW9EfISz2JbMBbmTXuWn5Hstw",
+            "https://www.google.com/url?q=http://bit.ly/2mv8WTb&sa=D&ust=1586116424592000&usg=AFQjCNH3tOkB8QpTUaE_e5fJOCkwAZQ0nA",
+            "https://www.google.com/url?q=http://bit.ly/2n9HIlb&sa=D&ust=1586116424592000&usg=AFQjCNFNe03pvvB-CatzOX3Jc23YVk2uzg",
+            "https://www.google.com/url?q=http://bit.ly/2mFE0Qr&sa=D&ust=1586116424592000&usg=AFQjCNH7J61sfOGmXUlYBA-SmkAMLMxWyA",
+            "https://www.google.com/url?q=http://bit.ly/2lQl7K4&sa=D&ust=1586116424592000&usg=AFQjCNHP7qbfqxebSFsPg_bIalDeTVF0Aw",
+            "https://www.google.com/url?q=http://bit.ly/2pECMGh&sa=D&ust=1586116424592000&usg=AFQjCNHpOu0nrk-PiiFMgFfLrlnzSHiMGQ"
+        ],
+        "Surface Chemistry": [
+            "https://www.google.com/url?q=http://bit.ly/2mOsd1Y&sa=D&ust=1586116424592000&usg=AFQjCNFlI8M9F7WrvCtrDJP537qGtA5uMA",
+            "https://www.google.com/url?q=http://bit.ly/2l83rJP&sa=D&ust=1586116424593000&usg=AFQjCNGhZ7HDsxly4m7Mwn5VUDoAP47SpQ",
+            "https://www.google.com/url?q=http://bit.ly/2Mkkt1Q&sa=D&ust=1586116424593000&usg=AFQjCNHLBGfjWNySpD1JLzPH3oqiXtwHHg",
+            "https://www.google.com/url?q=http://bit.ly/32vhcm9&sa=D&ust=1586116424593000&usg=AFQjCNFFIQKn35-WO-Ravcout4JhPniPDA",
+            "https://www.google.com/url?q=http://bit.ly/35QxFTN&sa=D&ust=1586116424593000&usg=AFQjCNGQmq7LpZo4YFmnt7UJiNen14Rw0A",
+            "https://www.google.com/url?q=http://bit.ly/2Naw9DC&sa=D&ust=1586116424593000&usg=AFQjCNG_l3kEzuhQSNUm9l2Bq2T--fsgKA"
+        ],
+        "Carboxylic Acids": [
+            "https://www.google.com/url?q=http://bit.ly/34kxOgX&sa=D&ust=1586116424593000&usg=AFQjCNEbBvEEfpfjIKO8PbzrqirWaM8taQ",
+            "https://www.google.com/url?q=http://bit.ly/2qutjlc&sa=D&ust=1586116424593000&usg=AFQjCNGDI4HwYG2aE3O6NQaGi0vQL2qC-A",
+            "https://www.google.com/url?q=http://bit.ly/36pU36S&sa=D&ust=1586116424594000&usg=AFQjCNEtc1e7je4yCfiyPIEaXgvMtg1NiQ",
+            "https://www.google.com/url?q=http://bit.ly/2riROSL&sa=D&ust=1586116424594000&usg=AFQjCNE7jstaH3KH8--3-7_IHb4zaet3OA",
+            "https://www.google.com/url?q=http://bit.ly/2Q2Vsuh&sa=D&ust=1586116424594000&usg=AFQjCNEL6Ir-AGLlf_pkRzvMuh581qtoIg",
+            "https://www.google.com/url?q=http://bit.ly/2Cy2W0y&sa=D&ust=1586116424594000&usg=AFQjCNFTD-DtC6-5YuyF1UMfsZ88aHH6lg",
+            "https://www.google.com/url?q=http://bit.ly/2XlnbIr&sa=D&ust=1586116424594000&usg=AFQjCNGiMkRBWZKxFIctYzGswfz2IfHp8g"
+        ],
+        "Amines": [
+            "https://www.google.com/url?q=http://bit.ly/32RAnWw&sa=D&ust=1586116424594000&usg=AFQjCNEZ-_SbWA4u4HN29l7C1P4VhgVtbA",
+            "https://www.google.com/url?q=http://bit.ly/2rNxUj2&sa=D&ust=1586116424594000&usg=AFQjCNF34tCriqN4BhH8huOMYKBX-UFRKg",
+            "https://www.google.com/url?q=http://bit.ly/338wtIT&sa=D&ust=1586116424595000&usg=AFQjCNGcNOQ1VYFjuapHTORuW_J6ysi0LQ",
+            "https://www.google.com/url?q=http://bit.ly/37BZ9gQ&sa=D&ust=1586116424595000&usg=AFQjCNHt8ofTWTm52VW2VZrp72HDvDx7pg",
+            "https://www.google.com/url?q=http://bit.ly/2XST6QN&sa=D&ust=1586116424595000&usg=AFQjCNEDpBehME6AzDjKZP79NALDC0ejkg",
+            "https://www.google.com/url?q=http://bit.ly/2qYQ9SD&sa=D&ust=1586116424595000&usg=AFQjCNEvbRpUolo_h7Od3uAURBBhawldHg"
+        ],
+        "  Coordination Compounds": [
+            "https://www.google.com/url?q=http://bit.ly/2DOUzyp&sa=D&ust=1586116424595000&usg=AFQjCNElqueMH2tbT5voYIepHwt8iAhKKw",
+            "https://www.google.com/url?q=http://bit.ly/2RpLGTU&sa=D&ust=1586116424595000&usg=AFQjCNHe3CtXKZKET3qpCakq3o2Kf6bmOQ",
+            "https://www.google.com/url?q=http://bit.ly/34ZEthp&sa=D&ust=1586116424595000&usg=AFQjCNEZxLALcO7ydE6V07QHV64nOmkD8g",
+            "https://www.google.com/url?q=http://bit.ly/2Pii7C3&sa=D&ust=1586116424596000&usg=AFQjCNHaiu4kIgkGdHgIwCWwGUhrxvNOww",
+            "https://www.google.com/url?q=http://bit.ly/36xoZRY&sa=D&ust=1586116424596000&usg=AFQjCNEstMA6VvMSQs0o5_6HxuB7XYwqPw",
+            "https://www.google.com/url?q=http://bit.ly/2YOnqwv&sa=D&ust=1586116424596000&usg=AFQjCNFRZa88xEXWu1eKaUP19ODylEy5gg",
+            "https://www.google.com/url?q=http://bit.ly/2EJ9R8h&sa=D&ust=1586116424596000&usg=AFQjCNESU1005ld9bKchTRW8AT7t5c1hyg",
+            "https://www.google.com/url?q=http://bit.ly/396okZK&sa=D&ust=1586116424596000&usg=AFQjCNENTRi3QcPPxbZEHKWMIyqJRjB4gA",
+            "https://www.google.com/url?q=http://bit.ly/2QspjLz&sa=D&ust=1586116424596000&usg=AFQjCNFatUrtSZDv3kf9eyZUjM0D3oxqyA",
+            "https://www.google.com/url?q=http://bit.ly/37iFlOU&sa=D&ust=1586116424596000&usg=AFQjCNEJWJLIDKW08-yoxik5PtfTe7Tqqw",
+            "https://www.google.com/url?q=http://bit.ly/365bskR&sa=D&ust=1586116424596000&usg=AFQjCNFGKYgDJUxnpqRfzQ-fNJj0XtorGA"
+        ],
+        "Oxygen Family": [
+            "https://www.google.com/url?q=http://bit.ly/2THx8hX&sa=D&ust=1586116424597000&usg=AFQjCNHu2f4MDt0DPiVjMuDI1CXfGK2VPw",
+            "https://www.google.com/url?q=http://bit.ly/39BDE0o&sa=D&ust=1586116424597000&usg=AFQjCNF_SBOA7C_AtOadu6owDVgsTgGBUQ"
+        ],
+        "Halogen Family": [
+            "https://www.google.com/url?q=http://bit.ly/38EbErB&sa=D&ust=1586116424597000&usg=AFQjCNEH1CYfPzENCOolw0r1FVAJyq-W6g",
+            "https://www.google.com/url?q=http://bit.ly/2vXfE9p&sa=D&ust=1586116424597000&usg=AFQjCNEWuU5IL_9P1dnWdcV2FD6slmHRig"
+        ],
+        "Nobel Gases Family": [
+            "https://www.google.com/url?q=http://bit.ly/2wWYoBu&sa=D&ust=1586116424598000&usg=AFQjCNFLCAmSuE52NZE2ogSIFdgt0A4GyQ"
+        ],
+        "Biomolecules": [
+            "https://www.google.com/url?q=http://bit.ly/2U9RAbD&sa=D&ust=1586116424598000&usg=AFQjCNHCZumzAkp1bqu9e1CUQNJEHrxV9w",
+            "https://www.google.com/url?q=http://bit.ly/2U6VuBY&sa=D&ust=1586116424598000&usg=AFQjCNHxsVHlTforvINSyHLUb0B_vSxY4Q",
+            "https://www.google.com/url?q=http://bit.ly/2IRvi9c&sa=D&ust=1586116424598000&usg=AFQjCNEH2qmFwxwyAVKH3-JXn6wxOMeeqQ",
+            "https://www.google.com/url?q=http://bit.ly/33qgxUk&sa=D&ust=1586116424598000&usg=AFQjCNEQTLXwKYf2hisib37TEC1ZnMG_6Q"
+        ],
+        "D & F Block Elements": [
+            "https://www.google.com/url?q=https://bit.ly/2wQrVNx&sa=D&ust=1586116424598000&usg=AFQjCNHUk6q6iyoj28wpVJe0YvzgCRi-WA"
+        ]
+    },
+    "maths": {
+        "Functions": [
+            "https://www.google.com/url?q=http://bit.ly/2KxX7a8&sa=D&ust=1586116424599000&usg=AFQjCNGOg2vE4p21aTEGWAREqZqLzCZ1UQ",
+            "https://www.google.com/url?q=http://bit.ly/2Darayt&sa=D&ust=1586116424599000&usg=AFQjCNFChHa_9UyNUZS2_T9bwQhVPmS5BQ",
+            "https://www.google.com/url?q=http://bit.ly/2DbWk8P&sa=D&ust=1586116424599000&usg=AFQjCNE9_v3Sqg5VuDYecVMUxd5rPSV-CQ",
+            "https://www.google.com/url?q=http://bit.ly/2PsyNpf&sa=D&ust=1586116424599000&usg=AFQjCNG84_bum2v69Di8aNNNItHzaK0X5Q",
+            "https://www.google.com/url?q=http://bit.ly/2IxD1v0&sa=D&ust=1586116424600000&usg=AFQjCNEfc7X4n54rAUebh-k4oy1-Fy6Gmg",
+            "https://www.google.com/url?q=http://bit.ly/2XCvAWX&sa=D&ust=1586116424600000&usg=AFQjCNFC5FVDSCvEtywctwwaWrX8bSIeUA",
+            "https://www.google.com/url?q=http://bit.ly/2IWxiyd&sa=D&ust=1586116424600000&usg=AFQjCNG-xXhsCm3JVtR3WqqgXJ23e8ZKWg"
+        ],
+        "Trigonometry": [
+            "https://www.google.com/url?q=http://bit.ly/2JaaDyr&sa=D&ust=1586116424554000&usg=AFQjCNGhHZIk_-zWquSA9Js0Fkwx7g4g3w",
+            "https://www.google.com/url?q=http://bit.ly/2DTtjiB&sa=D&ust=1586116424554000&usg=AFQjCNG3SkH8cyjTmqDcFbjaM-rk_crUdQ",
+            "https://www.google.com/url?q=http://bit.ly/2V4b8fW&sa=D&ust=1586116424555000&usg=AFQjCNG8zuxglabApsl9rzWO6IP6YrANPw",
+            "https://www.google.com/url?q=http://bit.ly/2PU9EUx&sa=D&ust=1586116424555000&usg=AFQjCNHWM8zI3fWlCGYTqWFtJfn-VK1IJA",
+            "https://www.google.com/url?q=http://bit.ly/2Q55k52&sa=D&ust=1586116424555000&usg=AFQjCNGYZa-Y99OVV4Vq1vATThxJYrL_Sw",
+            "https://www.google.com/url?q=http://bit.ly/2HBfab1&sa=D&ust=1586116424555000&usg=AFQjCNHvskb8dWWQSqHSb54rVZStOXcLow",
+            "https://www.google.com/url?q=http://bit.ly/2YrtqcQ&sa=D&ust=1586116424555000&usg=AFQjCNHDPFxtF_4UjaSfEL9FtQI2QcrowA",
+            "https://www.google.com/url?q=http://bit.ly/30wN09K&sa=D&ust=1586116424555000&usg=AFQjCNEI6DUDa59cuyFYJbDRjYZZdHfDYg",
+            "https://www.google.com/url?q=http://bit.ly/2VEeO8j&sa=D&ust=1586116424555000&usg=AFQjCNE27lK57M9f81tTBDOW9JOm6yiDEw",
+            "https://www.google.com/url?q=http://bit.ly/2Qgoc0N&sa=D&ust=1586116424555000&usg=AFQjCNFKcKNyhv7VBULqCjsJ8Avp1mjuog",
+            "https://www.google.com/url?q=http://bit.ly/2YSC7NH&sa=D&ust=1586116424555000&usg=AFQjCNEC2s9jh1vAts8-6NQCLDZ8Vmzlgw"
+        ],
+        "Trigonometric Equations": [
+            "https://www.google.com/url?q=http://bit.ly/2JIui9M&sa=D&ust=1586116424556000&usg=AFQjCNGbXqILp1bw5vJ-kURe6DI0QXneIQ",
+            "https://www.google.com/url?q=http://bit.ly/2wqnViN&sa=D&ust=1586116424556000&usg=AFQjCNFy_IqVbUMz99i0r38au0apxfZ3xQ",
+            "https://www.google.com/url?q=http://bit.ly/2JTCUuh&sa=D&ust=1586116424556000&usg=AFQjCNHMivJ7vHAS10IQIllJkj19R-W7HQ"
+        ],
+        "Quadratic Equations": [
+            "https://www.google.com/url?q=http://bit.ly/2IfLbpe&sa=D&ust=1586116424556000&usg=AFQjCNEWWCf_A32zv6DecNyyrg86OkJ4yA",
+            "https://www.google.com/url?q=http://bit.ly/2wFhs3z&sa=D&ust=1586116424556000&usg=AFQjCNFzJY0WaprtOpMe2XvHpw-L1OJxvw",
+            "https://www.google.com/url?q=http://bit.ly/2IFRX87&sa=D&ust=1586116424556000&usg=AFQjCNHS4ry7foSm-F-RVTxAomg4IgcpWQ",
+            "https://www.google.com/url?q=http://bit.ly/2F0deYL&sa=D&ust=1586116424556000&usg=AFQjCNH9Xb5G120Be-IllFmSeiQIeUWfqQ",
+            "https://www.google.com/url?q=http://bit.ly/2ZhyhxV&sa=D&ust=1586116424557000&usg=AFQjCNE6wmObzdKn4e7eaeYyXctm4hfnMQ",
+            "https://www.google.com/url?q=http://bit.ly/2WMMwxP&sa=D&ust=1586116424557000&usg=AFQjCNEFnPfjgjrZsdtL_Q9Jwv4sh1CMow"
+        ],
+        "Sequence and Series": [
+            "https://www.google.com/url?q=http://bit.ly/2MVZLb8&sa=D&ust=1586116424557000&usg=AFQjCNE-XttKjfxOQM3IWoP6yFNxTPLKpQ",
+            "https://www.google.com/url?q=http://bit.ly/2FlUgfn&sa=D&ust=1586116424557000&usg=AFQjCNFKBotxozmKbxo-XZpdGpEUQ1W8lw",
+            "https://www.google.com/url?q=http://bit.ly/2xd8WJu&sa=D&ust=1586116424557000&usg=AFQjCNE5VdW8_2etd1frkBvOGIkqYGlQtA",
+            "https://www.google.com/url?q=http://bit.ly/2LhbXkk&sa=D&ust=1586116424557000&usg=AFQjCNEGalVHHiTRHmgJYdQbKhRVTBWKZA",
+            "https://www.google.com/url?q=http://bit.ly/31TPDTz&sa=D&ust=1586116424557000&usg=AFQjCNHUZcTlf2wRHREoB7LLjelWmNYMmA",
+            "https://www.google.com/url?q=http://bit.ly/2FFowCj&sa=D&ust=1586116424557000&usg=AFQjCNEUAieGaU5eMiN6J6a-BFdZtHxBCQ",
+            "https://www.google.com/url?q=http://bit.ly/2Yu2LMY&sa=D&ust=1586116424557000&usg=AFQjCNHmn9oI5xuD6lQB2pbEk6ZN7Lo2eQ",
+            "https://www.google.com/url?q=http://bit.ly/2LtOo7U&sa=D&ust=1586116424558000&usg=AFQjCNH8c9UET8V9YvsJvT1Y5BQdDQrVOQ"
+        ],
+        "Permutation and Combination": [
+            "https://www.google.com/url?q=http://bit.ly/2YIzuhI&sa=D&ust=1586116424558000&usg=AFQjCNE9jJVHSPOayTT3UadHOF80SI8sOg",
+            "https://www.google.com/url?q=http://bit.ly/2G7aiKK&sa=D&ust=1586116424558000&usg=AFQjCNGy_K8_5lUeeDn86APju8xl0WLxNQ",
+            "https://www.google.com/url?q=http://bit.ly/2xEGGQh&sa=D&ust=1586116424558000&usg=AFQjCNFijKu7BIgQHPIuxA5ZO4Sff_jxww",
+            "https://www.google.com/url?q=http://bit.ly/2Sfswyx&sa=D&ust=1586116424558000&usg=AFQjCNGDLqZRvJ0LLx2cNDbuvlafUuzACw",
+            "https://www.google.com/url?q=http://bit.ly/30D6FUB&sa=D&ust=1586116424558000&usg=AFQjCNHwQFMichuX9-MlNAYGoMOqItVAtQ",
+            "https://www.google.com/url?q=http://bit.ly/2NVrmJJ&sa=D&ust=1586116424559000&usg=AFQjCNFwMFf1JHz0ksK2pGtddygHOyaGYA",
+            "https://www.google.com/url?q=http://bit.ly/2M77ukk&sa=D&ust=1586116424559000&usg=AFQjCNEYDFidjQClQYglF0KJkuKFLDNpPA",
+            "https://www.google.com/url?q=http://bit.ly/2GoudF6&sa=D&ust=1586116424559000&usg=AFQjCNEVVJKvKjRK3l8Alk10yhM-ayIVNw",
+            "https://www.google.com/url?q=http://bit.ly/2JUujFa&sa=D&ust=1586116424559000&usg=AFQjCNGzxGvifouDYHmXaIRcPItYAYljiQ"
+        ],
+        "Coordinate Geometry": [
+            "https://www.google.com/url?q=http://bit.ly/3146sKh&sa=D&ust=1586116424559000&usg=AFQjCNEfH5OzNH1ntPo60BNooPM4o3alOw",
+            "https://www.google.com/url?q=http://bit.ly/2LPBi5L&sa=D&ust=1586116424559000&usg=AFQjCNH1LV90CsQWfbYuOYW5wHrzoMyjRw",
+            "https://www.google.com/url?q=http://bit.ly/2YeZFAE&sa=D&ust=1586116424559000&usg=AFQjCNGFJv-LKg_72gRQsG1rlu4EQbURUg"
+        ],
+        "Straight Lines": [
+            "https://www.google.com/url?q=http://bit.ly/2YJQbN0&sa=D&ust=1586116424560000&usg=AFQjCNEBSjWol83NnDNjKEU1Id-l3F6w4w",
+            "https://www.google.com/url?q=http://bit.ly/2MLRJzJ&sa=D&ust=1586116424560000&usg=AFQjCNE_dPtmi13R9RlK4jIVCxcQo2Vrag",
+            "https://www.google.com/url?q=http://bit.ly/2Tc3wIX&sa=D&ust=1586116424560000&usg=AFQjCNE39o3T_27HVQg8_WfvQHUAbKx1GQ",
+            "https://www.google.com/url?q=http://bit.ly/33OeEAE&sa=D&ust=1586116424560000&usg=AFQjCNF0eiHpqq9R8a0AXQe4FKnW7onhEw",
+            "https://www.google.com/url?q=http://bit.ly/2MBZcCr&sa=D&ust=1586116424560000&usg=AFQjCNEcPgiW1hJRcA5VGg5ek8npn-odgQ",
+            "https://www.google.com/url?q=http://v&sa=D&ust=1586116424560000&usg=AFQjCNH4D-KbIap8ENOEgCcWW-361mlW2A",
+            "https://www.google.com/url?q=http://bit.ly/2MEPpve&sa=D&ust=1586116424560000&usg=AFQjCNHlkYdv58sxKo8zIOuLj2LkXwmU5A",
+            "https://www.google.com/url?q=http://bit.ly/2L273an&sa=D&ust=1586116424560000&usg=AFQjCNGVPyKqePYZEPXLhY5O9y24oH5E3g",
+            "https://www.google.com/url?q=http://bit.ly/2ly6OJy&sa=D&ust=1586116424560000&usg=AFQjCNEV17WhneszFXvdFqMf8KRsnbJ06w"
+        ],
+        "Binomial Theorem": [
+            "https://www.google.com/url?q=http://bit.ly/2lRD2Q9&sa=D&ust=1586116424560000&usg=AFQjCNFKq3dVPjtIh0_UpfFOZhT1BM8c3w",
+            "https://www.google.com/url?q=http://bit.ly/2krOpOo&sa=D&ust=1586116424561000&usg=AFQjCNEU1YAyjRh5Inqb0Hz9vkb_KwU7cg",
+            "https://www.google.com/url?q=http://bit.ly/2lEkQJZ&sa=D&ust=1586116424561000&usg=AFQjCNHU7VCr9VVBrCUxIR_cJTrHK509yA",
+            "https://www.google.com/url?q=http://bit.ly/2lGpJCj&sa=D&ust=1586116424561000&usg=AFQjCNEdojARWvXogsSMYYZMapjKME6EYw",
+            "https://www.google.com/url?q=http://bit.ly/2kEMgz5&sa=D&ust=1586116424561000&usg=AFQjCNGSUZGU9J7BpUhnDl0T5c3cEOCEcg",
+            "https://www.google.com/url?q=http://bit.ly/2lT56Tm&sa=D&ust=1586116424561000&usg=AFQjCNGYORUFIlaur4JPl1o9ThYw4lQWiQ",
+            "https://www.google.com/url?q=http://bit.ly/2krb9OM&sa=D&ust=1586116424561000&usg=AFQjCNEtf7va9C93RB6tLahoTDGsShmM9g"
+        ],
+        "Complex Numbers": [
+            "https://www.google.com/url?q=http://bit.ly/2kod6eN&sa=D&ust=1586116424561000&usg=AFQjCNEuRSSy8alguKy8xZn-bRkRIzsCqA",
+            "https://www.google.com/url?q=http://bit.ly/2me8B7d&sa=D&ust=1586116424562000&usg=AFQjCNFouwl_9c1S83B0mA8DEuU2yfLRIg",
+            "https://www.google.com/url?q=http://bit.ly/2mq1pVs&sa=D&ust=1586116424562000&usg=AFQjCNEGfjUHUdkbATjbrohifxdWq8BwMg",
+            "https://www.google.com/url?q=http://bit.ly/2lyp2LG&sa=D&ust=1586116424562000&usg=AFQjCNEg7kZUsWIGGWrVfXF2urLp-I_WUQ",
+            "https://www.google.com/url?q=http://bit.ly/2nTwGB2&sa=D&ust=1586116424562000&usg=AFQjCNG3BEia0y0jjiNwC8KeJC1g12GIFQ",
+            "https://www.google.com/url?q=http://bit.ly/2onDA1x&sa=D&ust=1586116424562000&usg=AFQjCNHTxLVuRHOTfuDl5aXEiYjwJNuoKA",
+            "https://www.google.com/url?q=http://bit.ly/2LR9fBI&sa=D&ust=1586116424562000&usg=AFQjCNGS_m41eEnIEBAEU4JusPbcpTaosA",
+            "https://www.google.com/url?q=http://bit.ly/35f3zcs&sa=D&ust=1586116424562000&usg=AFQjCNFthfIwAFuy4dzYxcXHa2Z1aGYrxA",
+            "https://www.google.com/url?q=http://bit.ly/35mSINy&sa=D&ust=1586116424562000&usg=AFQjCNGo5YQOOEonj6TUsyok6X-2M8b1LA",
+            "https://www.google.com/url?q=http://bit.ly/2Bd1BLQ&sa=D&ust=1586116424562000&usg=AFQjCNEzTotFkPZCESqTGazR8vIgwzBYVQ",
+            "https://www.google.com/url?q=http://bit.ly/2oAd5Xm&sa=D&ust=1586116424562000&usg=AFQjCNGYx6T02-D544RVZdWqMY2cvLQCIQ",
+            "https://www.google.com/url?q=http://bit.ly/2VN4nAV&sa=D&ust=1586116424562000&usg=AFQjCNHABe2nPKhc3qzxnqOZtxeuANEN5g",
+            "https://www.google.com/url?q=http://bit.ly/2pTWNc8&sa=D&ust=1586116424563000&usg=AFQjCNFC4p2IEqq7LJ0CUSE4P-gy4aEJPg"
+        ],
+        "Pair of Straight Lines": [
+            "https://www.google.com/url?q=http://bit.ly/2MWiDn0&sa=D&ust=1586116424563000&usg=AFQjCNHMNbCQYliauG3Ok1SUcOPtrano4A",
+            "https://www.google.com/url?q=http://bit.ly/2BBgdFg&sa=D&ust=1586116424563000&usg=AFQjCNFmELEEM5W74Hl8SQkw43wE685ERQ",
+            "https://www.google.com/url?q=http://bit.ly/345VVjt&sa=D&ust=1586116424563000&usg=AFQjCNGwh_NxBpETLGbPmlGIQxXiRgktxg",
+            "https://www.google.com/url?q=http://bit.ly/2KTy5Qu&sa=D&ust=1586116424563000&usg=AFQjCNElOy4K5eYj0Roe6rmhqFPNrrcAaQ"
+        ],
+        "Circles": [
+            "https://www.google.com/url?q=http://bit.ly/2BxcVTd&sa=D&ust=1586116424563000&usg=AFQjCNGjUH6S3FZ-jcWLKhekHop0CsAPpA",
+            "https://www.google.com/url?q=http://bit.ly/2JgIbtX&sa=D&ust=1586116424564000&usg=AFQjCNFJQFbh5QOymGtNPF7JRJYybxcuqQ",
+            "https://www.google.com/url?q=http://bit.ly/2NmolyK&sa=D&ust=1586116424564000&usg=AFQjCNFNquXf-rLfk4ew-He-IBjsW1Z5cA",
+            "https://www.google.com/url?q=http://bit.ly/32h4Blo&sa=D&ust=1586116424564000&usg=AFQjCNG-IZp12Fbf56_R0MXsMXmSZRS5Kg",
+            "https://www.google.com/url?q=http://bit.ly/2WHW6Pp&sa=D&ust=1586116424564000&usg=AFQjCNFt5iRC90cHqy7XPbs2yzdyW-8ckg",
+            "https://www.google.com/url?q=http://bit.ly/2CfCAAn&sa=D&ust=1586116424564000&usg=AFQjCNEnkYYgZGdXeHJcwTG3qs2sutFxGA",
+            "https://www.google.com/url?q=http://bit.ly/33q6NbR&sa=D&ust=1586116424564000&usg=AFQjCNF_yYbi-2mWXH-Bq8Zer5x-w15Oag",
+            "https://www.google.com/url?q=http://bit.ly/33Gl1Fq&sa=D&ust=1586116424564000&usg=AFQjCNFpZ9EJXrZUGaWmXl35EUqYE29ztg",
+            "https://www.google.com/url?q=http://bit.ly/33xYXNt&sa=D&ust=1586116424564000&usg=AFQjCNE-BY8TDjeQtuWXOlr64csN1Wshgw",
+            "https://www.google.com/url?q=http://bit.ly/2CUDORR&sa=D&ust=1586116424564000&usg=AFQjCNFa7fhQ_iuInM8cbFt5VNwM21YVzA",
+            "https://www.google.com/url?q=http://bit.ly/2O3AcDe&sa=D&ust=1586116424565000&usg=AFQjCNExqeOJwuSZIijn6uEXWX80AhDapg",
+            "https://www.google.com/url?q=http://bit.ly/2rcKqs0&sa=D&ust=1586116424565000&usg=AFQjCNG-Pqceg10pb-SYwO6UVi9VX5_UYA"
+        ],
+        "Parabola": [
+            "https://www.google.com/url?q=http://bit.ly/2Ohkvsg&sa=D&ust=1586116424565000&usg=AFQjCNFatH8tIjWfdeWVzJAl7s4KenP1YQ",
+            "https://www.google.com/url?q=https://youtu.be/vphSk5HyI3w&sa=D&ust=1586116424565000&usg=AFQjCNGaT48EwjVoFHiZas29NLWNrkQ7jQ",
+            "https://www.google.com/url?q=http://bit.ly/33pxmNp&sa=D&ust=1586116424565000&usg=AFQjCNH6ckNd8EJnUWHBl_YVENGtTHP0xA",
+            "https://www.google.com/url?q=http://bit.ly/2OFdwtm&sa=D&ust=1586116424565000&usg=AFQjCNEacCC01jKjhDxkK3nmAiEkuxqXTg",
+            "https://www.google.com/url?q=http://bit.ly/33Gcul7&sa=D&ust=1586116424565000&usg=AFQjCNGAftW2NQYF0ZbSisAVkxkxOhYCpw",
+            "https://www.google.com/url?q=http://bit.ly/2Lp7f33&sa=D&ust=1586116424565000&usg=AFQjCNG9s9EOwBsFSTuHT8FKZTjPX7dCTw",
+            "https://www.google.com/url?q=http://bit.ly/35fWqZf&sa=D&ust=1586116424565000&usg=AFQjCNFaKERlYhZ3Le-zeEIhFW2aC3R1ew",
+            "https://www.google.com/url?q=http://bit.ly/2RyPDpp&sa=D&ust=1586116424566000&usg=AFQjCNEuWcIuXgyMfecEI95i3EpW8nd6Fg",
+            "https://www.google.com/url?q=http://bit.ly/2qHaaNo&sa=D&ust=1586116424566000&usg=AFQjCNG-71d8X7jBmEz5zLtMuIpWVmvZrA"
+        ],
+        "Ellipse": [
+            "https://www.google.com/url?q=http://bit.ly/38MGPSP&sa=D&ust=1586116424566000&usg=AFQjCNGh9p1Uae5_9dm_5WoF7qYwR5i6_w",
+            "https://www.google.com/url?q=http://bit.ly/2Ep62F2&sa=D&ust=1586116424566000&usg=AFQjCNGeteaMADQGsmKTKM-untkj2Dm7Qg",
+            "https://www.google.com/url?q=https://youtu.be/ulgXcJLBnhk&sa=D&ust=1586116424566000&usg=AFQjCNGaLAtTTaDyZ5uXuE97fDfJqSAbaQ",
+            "https://www.google.com/url?q=http://bit.ly/34RuolJ&sa=D&ust=1586116424566000&usg=AFQjCNE5zkNvbufKlcZK0NMhMHUe4wBWHg",
+            "https://www.google.com/url?q=http://bit.ly/2t16bfi&sa=D&ust=1586116424566000&usg=AFQjCNFWN9avCbJ0gAmecRh0fcMGD44_6g",
+            "https://www.google.com/url?q=http://bit.ly/2EPmgre&sa=D&ust=1586116424566000&usg=AFQjCNHJwYZQYNpom_Z6yRp3dVeWh07xig",
+            "https://www.google.com/url?q=http://bit.ly/2ZCDEsJ&sa=D&ust=1586116424566000&usg=AFQjCNFyFbuRZpYu6IDXrIe71GO5moOqFA",
+            "https://www.google.com/url?q=http://bit.ly/2SIUuET&sa=D&ust=1586116424567000&usg=AFQjCNFpIAR4trCqSeqnlCw0lmEixOcYag"
+        ],
+        "Hyperbola": [
+            "https://www.google.com/url?q=http://bit.ly/2QTwUmD&sa=D&ust=1586116424567000&usg=AFQjCNG45CLW-fGzZTOnORe5suAQTMfDwA",
+            "https://www.google.com/url?q=http://bit.ly/2ZXda5i&sa=D&ust=1586116424567000&usg=AFQjCNHESI4q6f3GZJpnU_SgdvLXPIDdwA",
+            "https://www.google.com/url?q=http://bit.ly/2RhJPi6&sa=D&ust=1586116424567000&usg=AFQjCNFCYRsEtOawwN21DTyJAx-vz4tz2w",
+            "https://www.google.com/url?q=http://bit.ly/2NG0yLl&sa=D&ust=1586116424567000&usg=AFQjCNFk-WsLDzX4sJwLanspDNQI14lDqg",
+            "https://www.google.com/url?q=http://bit.ly/36WQJQF&sa=D&ust=1586116424567000&usg=AFQjCNEFww9ykUHa8PcObWfB-bC6KB3stQ"
+        ],
+        "Inverse Trigonometric Functions": [
+            "https://www.google.com/url?q=http://bit.ly/2GNmS2f&sa=D&ust=1586116424600000&usg=AFQjCNFNu1WN-mNdeC7T-QduMovi3Fds9Q",
+            "https://www.google.com/url?q=http://bit.ly/2vpUHQq&sa=D&ust=1586116424600000&usg=AFQjCNH9XaXTVKtHJMYBt0rI8VIEXWo1vw",
+            "https://www.google.com/url?q=http://bit.ly/2UYqYsn&sa=D&ust=1586116424600000&usg=AFQjCNHELpiIGPWeuOoUdo-RVZK45rT5Hg",
+            "https://www.google.com/url?q=http://bit.ly/2GX1y9v&sa=D&ust=1586116424600000&usg=AFQjCNGt3qJ3ZDcneKdWJyMVXAHJmmV3rw",
+            "https://www.google.com/url?q=http://bit.ly/2WuNNpj&sa=D&ust=1586116424601000&usg=AFQjCNGr2gxyOYb9PO_cbm_nDW0sF_OAbg"
+        ],
+        "Graphical Transformation": [
+            "https://www.google.com/url?q=http://bit.ly/2VQBuGE&sa=D&ust=1586116424601000&usg=AFQjCNHNqFW_DXQ7SOQqkZ4njKKkSwfLYA",
+            "https://www.google.com/url?q=http://bit.ly/2VlvTDH&sa=D&ust=1586116424601000&usg=AFQjCNFSPNVgD3BkHU-K2Iw5ViRL-tpMNQ"
+        ],
+        "Matrices and Determinants": [
+            "https://www.google.com/url?q=http://bit.ly/2JeKgYX&sa=D&ust=1586116424601000&usg=AFQjCNE5w8KO823nNpIHhQnbb2TAigVi7g",
+            "https://www.google.com/url?q=http://bit.ly/2YygstV&sa=D&ust=1586116424601000&usg=AFQjCNEbyB6WnI6vSO82Qj-413hAbZdA7g",
+            "https://www.google.com/url?q=http://bit.ly/2VxvJJQ&sa=D&ust=1586116424601000&usg=AFQjCNGIDxaA2TSs2jvRzQ719DKICcTbhQ",
+            "https://www.google.com/url?q=http://bit.ly/2LTVnZz&sa=D&ust=1586116424602000&usg=AFQjCNF9ejozFQiOb537iLx2BTdxwEE4_g",
+            "https://www.google.com/url?q=http://bit.ly/2X3dUUz&sa=D&ust=1586116424602000&usg=AFQjCNHuwMcNGgMuz7og1HBoQEbgNy57hg",
+            "https://www.google.com/url?q=http://bit.ly/2K3RwXk&sa=D&ust=1586116424602000&usg=AFQjCNEW7_UKQG_LKvHJPzlgQev_mmZqkg",
+            "https://www.google.com/url?q=http://bit.ly/2WnFVZS&sa=D&ust=1586116424602000&usg=AFQjCNF8ErEVdaS3UVpbERmCQLrKtv8iIg",
+            "https://www.google.com/url?q=http://bit.ly/2JR6H6M&sa=D&ust=1586116424602000&usg=AFQjCNHwXcqFYkAagjvvIBuzltlFA4lirA"
+        ],
+        "Limits, Continuity and Differentiability": [
+            "https://www.google.com/url?q=http://bit.ly/2wyfYYQ&sa=D&ust=1586116424602000&usg=AFQjCNFRAPHgVL9h6ICt6I3dSAITVvUAvw",
+            "https://www.google.com/url?q=http://bit.ly/2KrhR1V&sa=D&ust=1586116424603000&usg=AFQjCNFPA6bIt4ST6QWAY-Usp-aT6Er7cw",
+            "https://www.google.com/url?q=http://bit.ly/31gJjoX&sa=D&ust=1586116424603000&usg=AFQjCNE0xkPuPELYNLype4dT6kBdl0GUCw",
+            "https://www.google.com/url?q=http://bit.ly/2wI5jLr&sa=D&ust=1586116424603000&usg=AFQjCNGjFqPG-n-pGmQn2QyrfFWv9cFmXQ",
+            "https://www.google.com/url?q=http://bit.ly/2I4KoZr&sa=D&ust=1586116424603000&usg=AFQjCNEyrDAC8ag7ClOIFN__Aq2744Qqow",
+            "https://www.google.com/url?q=http://bit.ly/2wTJUij&sa=D&ust=1586116424603000&usg=AFQjCNHugUkQg83ro4Q5nIZ3Y96RleY85w",
+            "https://www.google.com/url?q=http://bit.ly/2WOmg1q&sa=D&ust=1586116424603000&usg=AFQjCNFgZCv9ExKNpcb0z9G91ssB0Pnz7A",
+            "https://www.google.com/url?q=http://bit.ly/2ypxxLQ&sa=D&ust=1586116424603000&usg=AFQjCNF9QjpLgMDEJ4qt63_eSUQRG1kmsA",
+            "https://www.google.com/url?q=http://bit.ly/2x3R1oz&sa=D&ust=1586116424603000&usg=AFQjCNGB4-k-jQ31NmYG0-oPsljfm21BxA",
+            "https://www.google.com/url?q=http://bit.ly/2FrFOmp&sa=D&ust=1586116424603000&usg=AFQjCNFarRBk7Z6USJZZipt2jlcWP7Ul0Q",
+            "https://www.google.com/url?q=http://bit.ly/2X2ilmw&sa=D&ust=1586116424604000&usg=AFQjCNFbwqM-tRRwcquhLgWFIqj8L2Mz2w",
+            "https://www.google.com/url?q=http://bit.ly/3230E5h&sa=D&ust=1586116424604000&usg=AFQjCNHR8o_XEjzqYREy0FsuchiRwuZZxQ"
+        ],
+        "Methods of Differentiation": [
+            "https://www.google.com/url?q=http://bit.ly/2RM0x9b&sa=D&ust=1586116424604000&usg=AFQjCNH-hPL84e_OBKLpHNTlVTDYxka2qQ",
+            "https://www.google.com/url?q=http://bit.ly/2ROIjnM&sa=D&ust=1586116424604000&usg=AFQjCNGwMyAXlaUFIsNoUu4NFFxd9F_mBA"
+        ],
+        "Application of Derivatives": [
+            "https://www.google.com/url?q=http://bit.ly/2RXRJNR&sa=D&ust=1586116424604000&usg=AFQjCNGkHsULFzZplv08_fcagXrgJkvaOw",
+            "https://www.google.com/url?q=http://bit.ly/32c7ZQ0&sa=D&ust=1586116424604000&usg=AFQjCNFoow6r7mQcb2JEwekOW2ret8sBOg",
+            "https://www.google.com/url?q=http://bit.ly/2XqtJUt&sa=D&ust=1586116424605000&usg=AFQjCNFzMuzMtm3QiZKsYChUU7LkvpXb4A",
+            "https://www.google.com/url?q=http://bit.ly/2Jyp8uo&sa=D&ust=1586116424605000&usg=AFQjCNFX6wZJkHf2xM9aw2-9aaw4xrPqlA",
+            "https://www.google.com/url?q=http://bit.ly/2LSWA1M&sa=D&ust=1586116424605000&usg=AFQjCNFqRaFyVvVG4Z_nYb0_sdmwL3vgcQ",
+            "https://www.google.com/url?q=http://bit.ly/2NZQdfB&sa=D&ust=1586116424605000&usg=AFQjCNH4840IGSFsVJ4kLr9nlExc992ADA",
+            "https://www.google.com/url?q=http://bit.ly/2GksSin&sa=D&ust=1586116424605000&usg=AFQjCNG8-F0bAptj_a9pjJCw_jH7dLvZDA",
+            "https://www.google.com/url?q=http://bit.ly/2JGmzIc&sa=D&ust=1586116424605000&usg=AFQjCNGSYgMh9YRnmNLnmKrLnVVRNCMnBQ",
+            "https://www.google.com/url?q=http://bit.ly/30LIXWd&sa=D&ust=1586116424605000&usg=AFQjCNETEO0_bQviymYil6fduzzoyQRA7w"
+        ],
+        "Indefinite Integration": [
+            "https://www.google.com/url?q=http://bit.ly/2KaYl7Z&sa=D&ust=1586116424606000&usg=AFQjCNFRvNo1KcV2AxGtDzSlPAvata-uHA",
+            "https://www.google.com/url?q=http://bit.ly/2ZhnSm4&sa=D&ust=1586116424606000&usg=AFQjCNHpFopf6h0xvnPBts9Fa4nATioAVQ",
+            "https://www.google.com/url?q=http://bit.ly/2JXzTYL&sa=D&ust=1586116424606000&usg=AFQjCNGG4YjjQaJvZ7FZ9JQ9DYyvs80zag",
+            "https://www.google.com/url?q=http://bit.ly/2GIIKLY&sa=D&ust=1586116424606000&usg=AFQjCNEdsWdYVqk_XSy7jCdu47-Yp4hTpg",
+            "https://www.google.com/url?q=http://bit.ly/2YG3XjD&sa=D&ust=1586116424606000&usg=AFQjCNFegOM6LRBBQfMX8UQI9aa83nicpg",
+            "https://www.google.com/url?q=http://bit.ly/2OT5xvd&sa=D&ust=1586116424606000&usg=AFQjCNHCXPVG9jhAS6F-uZ7Dc_6UiMerYg",
+            "https://www.google.com/url?q=http://bit.ly/2MSrQOD&sa=D&ust=1586116424606000&usg=AFQjCNGcoNbG6fLu6Xv79K5ZOZpEBxTpZw",
+            "https://www.google.com/url?q=http://bit.ly/2GY55W3&sa=D&ust=1586116424607000&usg=AFQjCNE_MHgE3QjQlN-CV_ZFO3DGWEiQLw",
+            "https://www.google.com/url?q=http://bit.ly/2Th8nZg&sa=D&ust=1586116424607000&usg=AFQjCNFiMEnEkIgVttAljuvG79DsgX1w7w",
+            "https://www.google.com/url?q=http://bit.ly/2HmM53A&sa=D&ust=1586116424607000&usg=AFQjCNE2JXX-4C1b1gVe63QDnJak6PHbzg"
+        ],
+        "Definite Integration": [
+            "https://www.google.com/url?q=http://bit.ly/30xp4m3&sa=D&ust=1586116424607000&usg=AFQjCNHlrwz_4XKRlIo2MvrpZqi_ojwSQw",
+            "https://www.google.com/url?q=http://bit.ly/2No4dOq&sa=D&ust=1586116424607000&usg=AFQjCNHXrPU7i_nsa-_LjUaWfG6pAl-FLg",
+            "https://www.google.com/url?q=http://bit.ly/2Hz0fyM&sa=D&ust=1586116424607000&usg=AFQjCNFrWvDnWfFtL9488dSkG041-51urw",
+            "https://www.google.com/url?q=http://bit.ly/2Zv3Isp&sa=D&ust=1586116424607000&usg=AFQjCNFM1_HC-AwWRN6Nx1KDxC0sg1fi8Q",
+            "https://www.google.com/url?q=http://bit.ly/2LfRv1q&sa=D&ust=1586116424608000&usg=AFQjCNGBuzpLGuXCGPUMttcvvgxZ_BTSgw",
+            "https://www.google.com/url?q=http://bit.ly/2k3RJ2d&sa=D&ust=1586116424608000&usg=AFQjCNFQPUb4QDBPwCYNd0JIuLjcSbuRhw",
+            "https://www.google.com/url?q=http://bit.ly/2k42bGP&sa=D&ust=1586116424608000&usg=AFQjCNG6JAFsRvrWoPeJFYApFwtU8sU54w",
+            "https://www.google.com/url?q=http://bit.ly/2lXRfuX&sa=D&ust=1586116424608000&usg=AFQjCNHzkIyKyZykM1PdtUXkmozwADzNkA"
+        ],
+        "Area Under the Curve": [
+            "https://www.google.com/url?q=http://bit.ly/2lPoTD8&sa=D&ust=1586116424608000&usg=AFQjCNEqL0bfWeDvKdFb-0mzVlncuASJJg",
+            "https://www.google.com/url?q=http://bit.ly/2lNKR9N&sa=D&ust=1586116424608000&usg=AFQjCNHlwkNofgXf_t55p9we7SpYeMFIWQ",
+            "https://www.google.com/url?q=http://bit.ly/2khv8zj&sa=D&ust=1586116424609000&usg=AFQjCNF_wRJoiWs4o0fpR3aj4ZhG_kBkqg"
+        ],
+        "Differential Equations": [
+            "https://www.google.com/url?q=http://bit.ly/2mt86pV&sa=D&ust=1586116424609000&usg=AFQjCNEJ6IJ7UPZs_tPy8CZ-QOjEvLKQBA",
+            "https://www.google.com/url?q=http://bit.ly/2kwq2PO&sa=D&ust=1586116424609000&usg=AFQjCNGqPOijLieT8X_SxnIpneme9w90dQ",
+            "https://www.google.com/url?q=http://bit.ly/2kYEe4j&sa=D&ust=1586116424609000&usg=AFQjCNElh4dpBt2i7k5vPqmijI4tnxn0QA",
+            "https://www.google.com/url?q=http://bit.ly/2mcKNB1&sa=D&ust=1586116424609000&usg=AFQjCNGy2oKJFrbP83Ztuv1uhqowZ7ChWQ",
+            "https://www.google.com/url?q=http://bit.ly/2o5GVSI&sa=D&ust=1586116424609000&usg=AFQjCNGt-3V32Yn0c3rQTbzGxV17QEOIpw",
+            "https://www.google.com/url?q=http://bit.ly/2lWkjDG&sa=D&ust=1586116424609000&usg=AFQjCNHSlCytwPQAtqeOuYwPeLi_Us1TwQ"
+        ],
+        "Vector Algebra": [
+            "https://www.google.com/url?q=http://bit.ly/330se2D&sa=D&ust=1586116424610000&usg=AFQjCNFdOlyIPtkvTPqSU1ExwW4aWJ_DgQ",
+            "https://www.google.com/url?q=http://bit.ly/31PtmWv&sa=D&ust=1586116424610000&usg=AFQjCNH-NpU0DAFhke9-6SV1TCUg_QvciQ",
+            "https://www.google.com/url?q=http://bit.ly/2LMQ1Nw&sa=D&ust=1586116424610000&usg=AFQjCNEe5iaBpqxUhcgx9gt-6OrnZHFUgQ",
+            "https://www.google.com/url?q=http://bit.ly/2q0RUOg&sa=D&ust=1586116424610000&usg=AFQjCNGGCVJ8keIMwOmQR-J8Gwgc7oYtSw",
+            "https://www.google.com/url?q=http://bit.ly/2OF5SzB&sa=D&ust=1586116424610000&usg=AFQjCNGT7KR_-hkP4bhPNn6kGvF8coVhhg",
+            "https://www.google.com/url?q=http://bit.ly/329Vwfh&sa=D&ust=1586116424610000&usg=AFQjCNEUevlGCgGBBazBSnKs_S6J2sFr-w",
+            "https://www.google.com/url?q=http://bit.ly/33Hrwrw&sa=D&ust=1586116424610000&usg=AFQjCNGjZvWzi7iFtlQrzWsK1VePd9V8SA",
+            "https://www.google.com/url?q=http://bit.ly/35Kmpsp&sa=D&ust=1586116424610000&usg=AFQjCNG1pUXHcdV2MGk2OuNxT5ZRIR85aw",
+            "https://www.google.com/url?q=http://bit.ly/2MSoz0g&sa=D&ust=1586116424610000&usg=AFQjCNE2RBLf6Z433vr6HeWEygIU7TEQ0A"
+        ],
+        "3D Geometry": [
+            "https://www.google.com/url?q=http://bit.ly/32OP4uq&sa=D&ust=1586116424611000&usg=AFQjCNHCk27f3Ua94EobnNkHHPoEgZgL4Q",
+            "https://www.google.com/url?q=http://bit.ly/2o9Z8in&sa=D&ust=1586116424611000&usg=AFQjCNEDCt5kss74FLCHA2JceHSt3rhPtQ",
+            "https://www.google.com/url?q=http://bit.ly/2BDxZaC&sa=D&ust=1586116424611000&usg=AFQjCNGXfBS19STTHX7tqL4qLwZeYD6D4w",
+            "https://www.google.com/url?q=http://bit.ly/2pqp2PP&sa=D&ust=1586116424611000&usg=AFQjCNG6MvTV_cBROYCJfQbJqMj8z-io1w",
+            "https://www.google.com/url?q=http://bit.ly/2oNoUtg&sa=D&ust=1586116424611000&usg=AFQjCNEGDfNz8ukDuDQBYhuK7nei9Euu8g",
+            "https://www.google.com/url?q=http://bit.ly/36s27Ep&sa=D&ust=1586116424611000&usg=AFQjCNHpygR3rmdH7eqt5cMNbPLtBKnPLw",
+            "https://www.google.com/url?q=http://bit.ly/2pXnaxU&sa=D&ust=1586116424611000&usg=AFQjCNFnd4cfWX0atD60jHw0fO-uk-U9Qw",
+            "https://www.google.com/url?q=http://bit.ly/2qxWgNb&sa=D&ust=1586116424611000&usg=AFQjCNE2ewFi4Fp17ZfbBFwS9k2-O8cMZA",
+            "https://www.google.com/url?q=http://bit.ly/2Q2g0mX&sa=D&ust=1586116424612000&usg=AFQjCNH4Fx8k6r7iESs2H8Tm60_sb2fAGg"
+        ],
+        "Probability": [
+            "https://www.google.com/url?q=http://bit.ly/32PIMK3&sa=D&ust=1586116424612000&usg=AFQjCNHQBbhD1kngKAzvtQQmPLMJUyKSdQ",
+            "https://www.google.com/url?q=http://bit.ly/2OlNgTo&sa=D&ust=1586116424612000&usg=AFQjCNGVaFcIGLqRzqd2j5LSBVfFL3mqTQ",
+            "https://www.google.com/url?q=http://bit.ly/2Xr0UsS&sa=D&ust=1586116424612000&usg=AFQjCNG5zn4qCOlApD3HGRxKQnKGvZA2Jw",
+            "https://www.google.com/url?q=http://bit.ly/2OdGj84&sa=D&ust=1586116424612000&usg=AFQjCNGI9rMm-sq5T-ez3ZDXcoOrczNfUQ",
+            "https://www.google.com/url?q=http://bit.ly/2KK3cOx&sa=D&ust=1586116424612000&usg=AFQjCNGYSb5eDv-Yu7D2IZTID1jxgmn8nQ",
+            "https://www.google.com/url?q=http://bit.ly/33fpr5n&sa=D&ust=1586116424612000&usg=AFQjCNFhVEdkGUT_teqBtCzxg2afaPzeMA",
+            "https://www.google.com/url?q=http://bit.ly/35MHfX7&sa=D&ust=1586116424612000&usg=AFQjCNHT3YKcuEG47rSnhYz6CkWk22WEIQ",
+            "https://www.google.com/url?q=http://bit.ly/35Pnv5i&sa=D&ust=1586116424612000&usg=AFQjCNFkpzddSfeaRmBhuXZ-YclwRCopCQ",
+            "https://www.google.com/url?q=http://bit.ly/2rGISGW&sa=D&ust=1586116424613000&usg=AFQjCNG9xqVgSggLty3WnrXt1q8eNq6-cg"
+        ],
+        "Solutions of Triangles": [
+            "https://www.google.com/url?q=http://bit.ly/368yarS&sa=D&ust=1586116424613000&usg=AFQjCNHbYMGdl5Wn1saEFt4sUZpmTnZ58w",
+            "https://www.google.com/url?q=http://bit.ly/2YrcSmv&sa=D&ust=1586116424613000&usg=AFQjCNEiSzFmCdJaKE8TpE-DK-GzSu0hzA",
+            "https://www.google.com/url?q=http://bit.ly/2YoqPlm&sa=D&ust=1586116424613000&usg=AFQjCNG1y4aemzR8sTMIt_CDuKS4e08xdw",
+            "https://www.google.com/url?q=http://bit.ly/36uQKuo&sa=D&ust=1586116424613000&usg=AFQjCNF09faxO2CU2vJzaYotiJkCf00Vsw",
+            "https://www.google.com/url?q=http://bit.ly/2RPJGnZ&sa=D&ust=1586116424613000&usg=AFQjCNEmpWjzqsW6mL8EnbIwgTF2xRRSBw",
+            "https://www.google.com/url?q=http://bit.ly/2tik0q0&sa=D&ust=1586116424613000&usg=AFQjCNFQ1_oh9JaYl5DX2YoS87mCnv7hLA",
+            "https://www.google.com/url?q=http://bit.ly/2ECrqGZ&sa=D&ust=1586116424613000&usg=AFQjCNGeepwNMg_nHv5QL0xSJIldPe8UUQ",
+            "https://www.google.com/url?q=http://bit.ly/392NbOc&sa=D&ust=1586116424613000&usg=AFQjCNGBNLxuLEf8arrzfGaU87MYIPZNIQ"
+        ]
+    }
+}

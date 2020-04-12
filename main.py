@@ -24,7 +24,6 @@ class Unacdemy(object):
 
 	def __init__(self):
 		#  initializing instance variables
-		self.classes = [['s2','s21','s23','s30','s24 softmerge','s22 softmerge','s18','s19','s15','s19 softmerge','s10','s10 softmerge','s25'],['s7','s0','s17']]
 		self.pattern = re.compile(r'd\/(.*?)\/view')
 		self.url = '''https://docs.google.com/spreadsheets/d/e/2PACX-1vQUwyeyCbReMBmABf-Q-XqG40oB5KrDQoUlLMpDZhBu18YasgWI72pAyH4beYolw95ylxQJdPqSWcig/pubhtml'''
 
@@ -38,48 +37,13 @@ class Unacdemy(object):
 				self.db = json.load(f)
 		else:
 			#  requesting and storing in json file
-			self.fetch_links(self.getSoup(self.url),self.classes)
-			self.tojson(self.db)
-
+			raise OSError('db.json file not found ! ')
 
 	#  Return Soup Object
 	@timeme
 	def getSoup(self,url):
 		self.r = requests.get(url)
 		return BeautifulSoup(self.r.content,'html.parser')
-
-	#  Scraping links with Chapter names
-	def fetch_links(self,soup,classes):
-		''' Messy code / Worst way to do this'''
-		self.db = {'physics':{},'chemistry':{},'maths':{}}
-		for elements in soup.find_all('tr'):
-			temp_ch = elements.find('td',class_=classes[0])
-			temp_link = elements.find('td',class_=classes[1])
-
-			if temp_ch:
-				chapter = temp_ch.get_text()
-				self.db[subject][chapter] = []
-
-			if temp_link and temp_link.get_text().lower().count('physics'):
-				subject = 'physics'
-			if temp_link and temp_link.get_text().lower().count('chemistry'):
-				subject = 'chemistry'
-			if temp_link and temp_link.get_text().lower().count('maths'):
-				subject = 'maths'
-
-			try :
-				if temp_link:
-					self.db[subject][chapter].append(temp_link.find('a').get('href'))
-			except :
-				pass
-		#  list comprehension for printing total Chapters/Notes for different subject
-		# print([{(key,len(value.keys())):reduce(lambda acc,nk:acc+len(self.db[key][nk]),value.keys(),0)} for key,value in self.db.items()])
-
-	#  Cacheing
-
-	def  tojson(self,db):
-		with open('db.json','w') as f:
-			json.dump(db,f,ensure_ascii=False,indent=4)
 
 	#  to unshorten the url
 	@timeme
